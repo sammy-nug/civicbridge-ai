@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body { @apply bg-civic-bg text-navy antialiased; font-size: 1.0625rem; line-height: 1.6; }
+  :focus-visible { outline: 3px solid #2563EB; outline-offset: 2px; border-radius: 4px; }
+  .on-dark :focus-visible { outline-color: #FFFFFF; }
+}
+
+@layer components {
+  .btn { @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-lg px-5 py-2.5 font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-60; }
+  .btn-primary { @apply btn bg-civic-blue text-white hover:bg-blue-700; }
+  .btn-green { @apply btn bg-green-700 text-white hover:bg-green-800; }
+  .btn-outline { @apply btn border border-slate-400 bg-white text-navy hover:bg-slate-100; }
+  .btn-on-dark { @apply btn border border-white/70 text-white hover:bg-white/10; }
+  .card { @apply rounded-xl border border-slate-200 bg-white; }
+  .field { @apply w-full rounded-lg border border-slate-500 bg-white px-3 py-2.5 text-navy placeholder:text-slate-600; }
+  .page { @apply mx-auto w-full max-w-5xl px-4 py-8 sm:px-6 sm:py-12; }
+  .eyebrow { @apply text-sm font-semibold uppercase tracking-wide text-green-800; }
+}
+
+/* Low-bandwidth mode: no transitions or shadows, and source details load on demand. */
+html[data-lite="true"] * { transition: none !important; animation: none !important; box-shadow: none !important; }
+html[data-lite="true"] .decorative { display: none !important; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+}
+
+.dot { animation: pulse-dot 1.2s infinite ease-in-out; }
+.dot:nth-child(2) { animation-delay: 0.15s; }
+.dot:nth-child(3) { animation-delay: 0.3s; }
+@keyframes pulse-dot { 0%, 80%, 100% { opacity: 0.25; } 40% { opacity: 1; } }

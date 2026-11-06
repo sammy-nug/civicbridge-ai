@@ -1,0 +1,80 @@
+{
+ "document": {
+  "id": "inec-voter-education",
+  "title": "Voter Education & Guidelines",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/voters/education",
+  "status": "needs_verification",
+  "publication_date": null,
+  "publication_date_basis": "Live page with no stated date; see retrieval date",
+  "description": "INEC's live voter education page: how to vote, rights and duties, inclusion, offences and collation of results. Its offences section cites the repealed Electoral Act 2022, so check penalties against the Electoral Act 2026.",
+  "category": "Voter education",
+  "extraction": "web_snapshot",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "de99a88d312b9601dc77a199b9fd55ca53b1a1cc29998e56c07a8a83915c16b3",
+  "page_count": 1
+ },
+ "chunks": [
+  {
+   "chunk_id": "inec-voter-education-0000",
+   "text": "Step-by-Step Election Day Voting Procedure Polling units open nationwide at 8:30 AM. Accreditation and voting commence simultaneously and conclude at 2:30 PM. However, every voter on the queue on or before 2:30 PM is entitled to vote. Join the Orderly Queue: Arrive at your registered Polling Unit and join the orderly queue. Ensure you have your physical Permanent Voter Card (PVC) with you. Present Your PVC: Present your Permanent Voter Card (PVC) to the Assistant Presiding Officer (APO II) who scans the card details on the BVAS reader. BVAS Biometric Accreditation: The BVAS captures and verifies your fingerprint biometrics. If fingerprint capture fails, facial recognition authentication is instantly deployed. Register Check & Ballot Paper: The Assistant Presiding Officer (APO I) verifies your name on the register, marks the register, signs and stamps the official ballot paper, and hands it to you. Thumbprint in Secret: Proceed to the private voting cubicle.",
+   "page": null,
+   "section": "Step-by-Step Election Day Voting Procedure"
+  },
+  {
+   "chunk_id": "inec-voter-education-0001",
+   "text": "marks the register, signs and stamps the official ballot paper, and hands it to you. Thumbprint in Secret: Proceed to the private voting cubicle. Thumbprint cleanly inside the box corresponding to your chosen political party symbol using indelible ink. Cast Ballot & Observe Peacefully: Fold your ballot vertically inward and drop it into the designated ballot box. You may leave or remain at least 300 meters away to observe open counting and results announcement.\nDownload Full 2023-2027 Election Procedures PDF\n\nGet the official 8-page complete election procedure manual issued by INEC.",
+   "page": null,
+   "section": "Step-by-Step Election Day Voting Procedure"
+  },
+  {
+   "chunk_id": "inec-voter-education-0002",
+   "text": "Constitutional Rights & Civic Duties of the Nigerian Voter\n\nUnder the 1999 Constitution of the Federal Republic of Nigeria (as amended) and the Electoral Act 2022, every Nigerian citizen possesses distinct civic rights alongside obligations necessary for transparent and peaceful democratic governance.",
+   "page": null,
+   "section": "Constitutional Rights & Civic Duties of the Nigerian Voter"
+  },
+  {
+   "chunk_id": "inec-voter-education-0003",
+   "text": "Your Constitutional Rights\n\nRight to Vote & Be Voted For: Eligible citizens who satisfy statutory requirements have the unalienable right to register, vote at elections, and stand for elective office via sponsored political parties.\n\nRight to Ballot Secrecy (Privacy): You have the absolute right to mark your ballot paper in complete secrecy inside the polling booth without fear of intimidation or surveillance.\n\nRight to Recall an Elected Representative: Registered voters in any constituency retain the legal power under Section 69 and 110 of the 1999 Constitution to recall an elected legislator who fails to represent them.\n\nRight to Information & Voter Education: Citizens are entitled to accessible, timely, and impartial voter education and clear guidelines published by INEC across all communication platforms.",
+   "page": null,
+   "section": "Your Constitutional Rights"
+  },
+  {
+   "chunk_id": "inec-voter-education-0004",
+   "text": "Your Civic Responsibilities\n\nEarly Registration & Safe Custody of PVC: Ensure timely registration during Continuous Voter Registration (CVR) and safeguard your Permanent Voter Card against loss or damage.\n\nOrderly Conduct on Election Day: Maintain peaceful and disciplined conduct, obey queue rules, respect election officials and security personnel, and refrain from inciting unrest.\n\nRefusal of Vote Buying / Selling: Resist all forms of financial bribery, inducement, or material promises in exchange for votes. Vote according to your conscience and conviction.\n\nAssisting Vulnerable Citizens: Grant priority and respectful assistance to pregnant women, nursing mothers, the elderly, and Persons with Disabilities (PWDs) at the polling booth.",
+   "page": null,
+   "section": "Your Civic Responsibilities"
+  },
+  {
+   "chunk_id": "inec-voter-education-0005",
+   "text": "Gender Mainstreaming & Civil Society Inclusivity\n\nThe Commission is firmly dedicated to ensuring full, safe, and active participation of Nigerian women, youth, marginalized communities, and Persons with Disabilities (PWDs) in all phases of the democratic process.\n\nINEC Gender Policy (2021-2025): Institutionalized frameworks aligning with the National Gender Policy 2006 and UN Sustainable Development Goals (SDGs) to eliminate systemic barriers against female political participation.\n\nMitigation of Violence Against Women: Joint training workshops with UN Women and security sector agencies across all six geopolitical zones to establish dedicated Gender Units protecting female voters and candidates.\n\nInclusion for PWDs & The Leprosy Mission: Deployment of Braille ballot guides for visually impaired citizens, magnifying glasses for albinism voters, and accessible polling booth pathways across the country.",
+   "page": null,
+   "section": "Gender Mainstreaming & Civil Society Inclusivity"
+  },
+  {
+   "chunk_id": "inec-voter-education-0006",
+   "text": "Electoral Offences and Prescribed Penalties\n\nThe Constitution of the Federal Republic of Nigeria 1999 (as amended) and the Electoral Act 2022 prescribe severe sanctions, hefty fines, and compulsory prison sentences for offences committed before, during, or after elections.\n\nOffence: Vote Buying & Bribery\nPenalty: ₦500,000 fine or 12 months imprisonment (or both).\n\nOffence: Multiple Registration\nPenalty: ₦100,000 fine or 12 months imprisonment (or both).\n\nOffence: Snatching Ballot Box / BVAS\nPenalty: 24 months imprisonment without option of fine.\n\nOffence: Possession of Offensive Weapons\nPenalty: ₦500,000 fine or 3 years imprisonment (or both).\n\nOffence: Impersonation & Voting Twice\nPenalty: ₦500,000 fine or 12 months imprisonment.\n\nOffence: Campaigning on Election Day\nPenalty: ₦100,000 fine or 6 months imprisonment.",
+   "page": null,
+   "section": "Electoral Offences and Prescribed Penalties"
+  },
+  {
+   "chunk_id": "inec-voter-education-0007",
+   "text": "Download Full Electoral Offences & Penalties Handbill\n\nOfficial legal schedule published by the Independent National Electoral Commission.",
+   "page": null,
+   "section": "Download Full Electoral Offences & Penalties Handbill"
+  },
+  {
+   "chunk_id": "inec-voter-education-0008",
+   "text": "Collation & Declaration of Results Framework\n\nCollation is the transparent arithmetic summation of votes cast at elections across statutory tiers, culminating in the mandatory Declaration of Results by designated Returning Officers.\n\nPolling Unit (PU): Ballots counted openly; Form EC8A signed & uploaded to IReV portal.\n\nRegistration Area / Ward: RA Collation Officer sums all PUs in the ward; declares Councillorship.\n\nLocal Government Area (LGA): LGA Collation Officer sums all wards; declares LGA Chairmanship.\n\nConstituency & Senatorial: Returning Officers declare State/Federal Assembly and Senate winners.",
+   "page": null,
+   "section": "Collation & Declaration of Results Framework"
+  },
+  {
+   "chunk_id": "inec-voter-education-0009",
+   "text": "Presidential Election Threshold\n\nUnder Section 133 of the 1999 Constitution, to be declared winner, a presidential candidate must score:\n- The highest number of valid votes cast nationwide; and\n- Not less than 25% of votes cast in at least two-thirds (24) of all 36 States and the FCT, Abuja.\nGovernorship & Assembly Thresholds\n\nFor state executive and legislative races:\n- Governorship: Highest total votes + at least 25% in two-thirds of all LGAs in the State.\n- National & State Assembly: Simple majority of valid votes cast in the constituency.",
+   "page": null,
+   "section": "Presidential Election Threshold"
+  }
+ ]
+}

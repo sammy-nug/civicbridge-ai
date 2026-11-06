@@ -1,0 +1,86 @@
+{
+ "document": {
+  "id": "result-transmission-procedure",
+  "title": "Procedure for Electronic Transmission and Collation of Results",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/documents/guidelines/Electronic_Transmission___Collation_Of_Result-5.pdf",
+  "status": "needs_verification",
+  "publication_date": "2022-04-21",
+  "publication_date_basis": "PDF file creation date (not a stated publication date)",
+  "description": "Manual on uploading polling unit results with BVAS and collating them. INEC still links it, but it predates the Electoral Act 2026.",
+  "category": "Results",
+  "extraction": "digital",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "95ea51c77f32229550e905ff1a0d748b0554cac178908cc91ab0ee3e17eec0c9",
+  "page_count": 4
+ },
+ "chunks": [
+  {
+   "chunk_id": "result-transmission-procedure-0000",
+   "text": "One of the most progressive provisions of the Electoral Act 2022 is the provision for result management from the Polling Units (PUs) to various levels of collation and declaration of winners. The process, as provided by the Act, is basically still manual involving the recording of results on forms (as determined by the Commission) and their delivery to various levels of collation until declaration and return are made. However, the law also provides for electronic transmission of results. In the event of dispute arising in the course of collation, the electronically-transmitted result shall be used to resolve it. These are clearly provided for in Sec. 60 of the Act which deals with the counting of votes, their entry into specific forms endorsed by INEC officials and candidates/polling agents and their transfer to collation centres. Furthermore, Sec. 64 (4), (5) and (6) of the Act provides for the recording and transmission of accreditation",
+   "page": 1,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0001",
+   "text": "their transfer to collation centres. Furthermore, Sec. 64 (4), (5) and (6) of the Act provides for the recording and transmission of accreditation data and election results directly from the PUs using the Smart Card Reader or any other electronic device determined by the Commission. Electronic Transmission & Collation Of Results Background 1",
+   "page": 1,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0002",
+   "text": "Details of the Relevant Provisions of the Law Sec. 60 of the Electoral Act 2022 provides thus: 60(1) The Presiding Officer shall, after counting the votes at the Polling Unit, enter the votes scored by each candidate in a form to be prescribed by the Commission as the case may be. (2) The form shall be signed and stamped by the Presiding Officer and counter-signed by the candidates or their polling agents where available at the Polling Unit. 2 (3) The Presiding Officer shall give to the polling agents and the police officer where available a copy each of the completed forms after it has been duly signed as provided under subsection (2). (4) The presiding officer shall count and announce the result at the Polling Unit. (5) The presiding officer shall transfer the result including the total number of accredited voters and the result of the ballot in a manner as prescribed by the Commission. 62(1) After the recording and announcement of the result, the presiding",
+   "page": 2,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0003",
+   "text": "and the result of the ballot in a manner as prescribed by the Commission. 62(1) After the recording and announcement of the result, the presiding officer shall deliver same along with election materials under security and accompanied by the candidates or their polling agents, where available, to such person as may be prescribed by the Commission.",
+   "page": 2,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0004",
+   "text": "(5) subject to subsection (1), a collation officer or returning officer shall use the number of accredited voters recorded and transmitted directly from polling units under Section 47(2) of this Act and the votes or results recorded and transmitted directly from polling units under section 60(4) of this Act to collate and announce the result of an election if a collated result at this or lower level of collation is not correct. Sec. 64 (4) A collation officer or returning officer at an election shall collate and announce the result of an election, subject to his or her verification and confirmation that – a. Number of accredited voters stated on the collated result are correct and consistent with the number of accredited voters recorded and transmitted directly from polling units under Section 47(2). b. The votes stated on the collated result are correct and consistent with the votes or results recorded and transmitted directly from polling units under section 60(4) of this Act. 3",
+   "page": 3,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0005",
+   "text": "result are correct and consistent with the votes or results recorded and transmitted directly from polling units under section 60(4) of this Act. 3 (6) where during collation of results, there is a dispute regarding a collated result or the result of an election from any polling unit, the collation officer or returning officer shall use the following to determine the correctness of the disputed result – a. The original of the disputed collated result for each polling unit where the election is disputed; b. The smart card reader or other technology device used for the accreditation of voters in each polling unit where the election is disputed for the purpose of obtaining accreditation data directly from the smart card reader or technology device; c. Data of accreditation recorded and transmitted directly from each polling unit where the election is disputed as prescribed under Section 47(2) of this Act; and d. The votes and result of the election recorded and transmitted",
+   "page": 3,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0006",
+   "text": "where the election is disputed as prescribed under Section 47(2) of this Act; and d. The votes and result of the election recorded and transmitted directly from each polling unit where the election is disputed, as prescribed under section 60(4) of this Act. Import of the Legal provisions Clearly, the law provides for a dual mode. The first mode is the 4-step manual procedure at PUs involving:\n1. Counting of ballot\n\npapers\n3. Endorsement of EC8A by\n\ncandidates/polling agents\n2. Recording of results on\n\nspecific form (EC8A)\n4. Physical delivery to\n\ncollation centres",
+   "page": 3,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0007",
+   "text": "In the event of dispute over the manual/physical PU results at collation level, the\n\nelectronically-transmitted result shall be used to resolve it.\n\nThe second mode entails a 2-step electronic procedure from PUs involving:\n1. Recording of\n\naccreditation data\n2. Direct transmission of\n\nresults\n\n4\n\nImplementation Procedure\n1. After an election and the completion of results management procedure at the PU, the\n\nPresiding Officer should take the following action:",
+   "page": 4,
+   "section": ""
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0008",
+   "text": "2. The Collation Officer, with the support of the RATECH, should have access to IReV. The\n\nresult held temporarily as part of IReV and the number of accredited voters in the BVAs\n\nshould be compared with what is recorded in the manually-delivered result to effect\n\ncollation (Sec. 64[4] and [5] of the Electoral Act 2022). The IReV result or the scanned\n\nimage of the EC8A from the BVAS should also be used in case any issue arises during\n\ncollation and there is need to resolve any dispute regarding the results (Sec. 64[6]),\n\nfollowing the procedure provided in the clause 93(a) of the Commission's Regulations\n\nand Guidelines for elections, 2022.",
+   "page": 4,
+   "section": "Section/clause 2"
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0009",
+   "text": "3. The same scenario should be implemented from one level of collation to a higher one\n\nuntil the result is declared and a return is made\n4. This approach integrates the IReV images into the collation process to satisfy the\n\nelectronic (direct) transmission of results.\n1. Transmit a clear image of EC8A\n\nfor purposes of collation. This\n\ngoes to the IReV",
+   "page": 4,
+   "section": "Section/clause 3"
+  },
+  {
+   "chunk_id": "result-transmission-procedure-0010",
+   "text": "2. Deliver by hand, the hard copy of\n\nEC8A and the BVAS to the Registration\n\nArea (RA) Collation Officer.\n\nDiagramatic Illustration\n\nThe Electoral Act 2022 uses the term \"Transfer\" in relation to election results to refer to two\n\nprocedures (physical delivery and direct transmission) as follows:\n\nDeliver (Sec. 62[1])\n\nManual delivery of results\n\nfrom PU to Collation\n\nCentre\n\nTransmit Directly (Sec. 64[4])\n\nElectronic transmission of result\n\ndirectly from PU for purposes of\n\ncollation\n\nAccredited voters\n\ntransmitted directly (Sec.\n\n64[5]) (i.e. the number of\n\naccredited voters contained\n\nin BVAS)\n\nResults recorded and\n\ntransmitted directly from\n\nPU (Sec. 64[5]) (i.e. Results\n\ntransmitted electronically\n\nfor collation using the BVAS)\n\nTransfer of Result (Sec. 60[5])",
+   "page": 4,
+   "section": "Section/clause 2"
+  }
+ ]
+}

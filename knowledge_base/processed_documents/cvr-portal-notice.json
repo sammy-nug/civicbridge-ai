@@ -1,0 +1,26 @@
+{
+ "document": {
+  "id": "cvr-portal-notice",
+  "title": "INEC Continuous Voter Registration Portal: Status Notice",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://cvr.inecnigeria.org/",
+  "status": "current",
+  "publication_date": null,
+  "publication_date_basis": "Live page with no stated date; see retrieval date",
+  "description": "The front page of INEC's voter registration portal, including any notice on whether registration is open.",
+  "category": "Voter registration",
+  "extraction": "web_snapshot",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "20af33a7097a97cca69bcca27b3f0aeb44ced9e213ffc52fa0e21082c999b32b",
+  "page_count": 1
+ },
+ "chunks": [
+  {
+   "chunk_id": "cvr-portal-notice-0000",
+   "text": "INEC Continuous Voter Registration Portal: Status Notice\n\nINEC Portal\nWelcome!\nThe Continuous Voter Registration (CVR) exercise has ended. Thank you for your participation.\nPlease expect an email notification once administrative processes are completed, and follow the\nINEC Website\nfor official updates. As a Registered Voter, you can still check the status of your PVC and find your collection centre.\nGet Started\nPrevious\nNext\nVoter Registration Status\n×\nTo continue, please answer the question below:\nAre you a registered voter?\nNo\nYes. Find My PVC\nVoter Registration Status\n×\nThe Continuous Voters Registration (CVR) exercise process is not currently active.\nThe Commission periodically conducts these registration exercises to ensure every eligible citizen has the opportunity to register and vote.\nYou can stay ahead and be among the first to know when the CVR exercise begins and to also receive timely updates.\nDo you want to be notified when there are new updates?\nNo\nYes, Notify Me",
+   "page": null,
+   "section": "INEC Continuous Voter Registration Portal: Status Notice"
+  }
+ ]
+}

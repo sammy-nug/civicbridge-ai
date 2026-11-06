@@ -1,0 +1,50 @@
+{
+ "document": {
+  "id": "inec-voter-faqs",
+  "title": "Frequently Asked Questions (Voter FAQs)",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/faqs",
+  "status": "needs_verification",
+  "publication_date": null,
+  "publication_date_basis": "Live page with no stated date; see retrieval date",
+  "description": "INEC's live answers to common questions on registration, PVCs, election day, results and offences. Some details, such as penalties, may not reflect the Electoral Act 2026.",
+  "category": "Voter education",
+  "extraction": "web_snapshot",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "f26955c9bd0bce6a182943818cf156cd75d0a3706fbca33e02c4a1260db801b8",
+  "page_count": 1
+ },
+ "chunks": [
+  {
+   "chunk_id": "inec-voter-faqs-0000",
+   "text": "Frequently Asked Questions (Voter FAQs)\nWho is eligible to register and vote in Nigerian elections?\n\nCategory: Registration & PVC\n\nAny Nigerian citizen who is 18 years of age or older, resides or works in Nigeria, and has completed the Continuous Voter Registration (CVR) with biometric enrollment at an INEC designated registration centre.\nCan I vote with an expired or temporary voter card?\n\nCategory: Registration & PVC\n\nNo. Only registered voters in physical possession of a valid Permanent Voter Card (PVC) that matches their biometric records on the BVAS device will be accredited to vote.",
+   "page": null,
+   "section": "Frequently Asked Questions (Voter FAQs)"
+  },
+  {
+   "chunk_id": "inec-voter-faqs-0001",
+   "text": "What time do Polling Units open on Election Day?\n\nCategory: Election Day & BVAS\n\nPolling Units open nationwide at 8:30 AM. Accreditation and voting commence simultaneously and run until 2:30 PM. Any voter on the queue on or before 2:30 PM MUST be accredited and permitted to cast their vote.",
+   "page": null,
+   "section": "What time do Polling Units open on Election Day?"
+  },
+  {
+   "chunk_id": "inec-voter-faqs-0002",
+   "text": "What is the Bimodal Voter Accreditation System (BVAS)?\n\nCategory: Election Day & BVAS\n\nThe BVAS is an electronic device designed by INEC to verify the authenticity of PVCs and authenticate voters using dual biometrics (fingerprint and facial recognition) to completely eliminate double voting or impersonation.",
+   "page": null,
+   "section": "What is the Bimodal Voter Accreditation System (BVAS)?"
+  },
+  {
+   "chunk_id": "inec-voter-faqs-0003",
+   "text": "What happens if the BVAS fails to recognize my fingerprints?\n\nCategory: Election Day & BVAS\n\nIf the BVAS fingerprint scanner fails, the presiding officer will immediately switch to facial recognition authentication on the same BVAS device. If facial match succeeds, the voter is accredited.\nIs my vote secret inside the polling cubicle?\n\nCategory: Voting Secrecy & Security\n\nYes. Every voter has the constitutional right to vote in secret. The voting booth is designed with privacy screens so that no one, including party agents and security personnel, can see your thumbprint choice.",
+   "page": null,
+   "section": "What happens if the BVAS fails to recognize my fingerprints?"
+  },
+  {
+   "chunk_id": "inec-voter-faqs-0004",
+   "text": "How are election results declared and where can the public see them?\n\nCategory: Results & Collation\n\nPresiding Officers tally ballots openly at each Polling Unit, fill and paste Form EC8A publicly, snap and transmit the scanned result sheet electronically to the INEC Result Viewing Portal (IReV) at inecelectionresults.ng.\nWhat is the penalty for vote buying or selling?\n\nCategory: Offences & Conduct\n\nUnder Section 121 of the Electoral Act 2022, anyone convicted of offering or accepting bribes/money for votes is liable to a fine of up to ₦500,000 or imprisonment for a term of 12 months, or both.",
+   "page": null,
+   "section": "How are election results declared and where can the public see them?"
+  }
+ ]
+}

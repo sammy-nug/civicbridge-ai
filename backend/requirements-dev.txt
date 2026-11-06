@@ -1,0 +1,7 @@
+# Local development, ingestion and evaluation.
+-r requirements.txt
+pytest==8.*
+pypdfium2==4.*
+rapidocr-onnxruntime==1.3.*
+sentence-transformers==3.*
+wordninja==2.*

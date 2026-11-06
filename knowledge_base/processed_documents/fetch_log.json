@@ -1,0 +1,104 @@
+{
+  "electoral-act-2026": {
+    "file": "electoral-act-2026.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "d051d7ab6b7ae14d94ddc7d9484bad583a09e4dbd82d2d08f030494f97c8c086",
+    "bytes": 1456288
+  },
+  "regulations-guidelines-2026": {
+    "file": "regulations-guidelines-2026.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "658cb09b5163a8a8767ceaa9863414f04239959dda6d70de5479fd7635f2a7c0",
+    "bytes": 18985915
+  },
+  "observer-application-2027": {
+    "file": "observer-application-2027.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "00e3d0e39d795092c7ba8b4969cab4b27c97ddfb664818dffb86ebf27ed22d5a",
+    "bytes": 55018
+  },
+  "inec-voter-education": {
+    "file": "inec-voter-education.md",
+    "retrieved_date": "2026-11-05",
+    "sha256": "de99a88d312b9601dc77a199b9fd55ca53b1a1cc29998e56c07a8a83915c16b3",
+    "bytes": 6420
+  },
+  "inec-voter-faqs": {
+    "file": "inec-voter-faqs.md",
+    "retrieved_date": "2026-11-05",
+    "sha256": "f26955c9bd0bce6a182943818cf156cd75d0a3706fbca33e02c4a1260db801b8",
+    "bytes": 2420
+  },
+  "inec-election-calendar": {
+    "file": "inec-election-calendar.md",
+    "retrieved_date": "2026-11-05",
+    "sha256": "93ecbba3c1fe48db2ff10f7047c1ab54696e3dd782140e0e57cd6d44e8f9a0e9",
+    "bytes": 1331
+  },
+  "cvr-portal-notice": {
+    "file": "cvr-portal-notice.md",
+    "retrieved_date": "2026-11-05",
+    "sha256": "20af33a7097a97cca69bcca27b3f0aeb44ced9e213ffc52fa0e21082c999b32b",
+    "bytes": 995
+  },
+  "cvr-portal-services": {
+    "file": "cvr-portal-services.md",
+    "retrieved_date": "2026-11-05",
+    "sha256": "35dfdb986febaaf944487ea6ab52289a1b9573f618818266dfa5e0c6d39ec618",
+    "bytes": 2260
+  },
+  "election-procedure-2023": {
+    "file": "election-procedure-2023.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "a8bb2be018a36205facb3169d71a053c676978210b741ce7821fe128df3d6dc2",
+    "bytes": 874877
+  },
+  "result-transmission-procedure": {
+    "file": "result-transmission-procedure.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "95ea51c77f32229550e905ff1a0d748b0554cac178908cc91ab0ee3e17eec0c9",
+    "bytes": 661914
+  },
+  "idp-voting-framework-2022": {
+    "file": "idp-voting-framework-2022.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "edaa03d345afdc488da8fbc58c9db2dc5d007a08e124aebb2bfc370335699f0a",
+    "bytes": 5564522
+  },
+  "regulations-guidelines-2022": {
+    "file": "regulations-guidelines-2022.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "14dbc02bc2dfadd0001d1e84ad7aa5162e5414e466cb92413b3571f4e7817b38",
+    "bytes": 1158716
+  },
+  "regulations-guidelines-2019": {
+    "file": "regulations-guidelines-2019.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "34354749767a27b14d6d6cb64aaf5d400ab496725450ed59b6ff47049a67c83a",
+    "bytes": 545563
+  },
+  "electoral-offences-2019": {
+    "file": "electoral-offences-2019.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "6e05e337e2a8b6a1d5a85af068897b8a89cfb5c94718113986af1b28848a014c",
+    "bytes": 326520
+  },
+  "cvr-guide-2013": {
+    "file": "cvr-guide-2013.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "e456325ec90f86ab35dfcb24553e837f6e16fb68b6bff22ae1fa9eeb3d147d8b",
+    "bytes": 1780174
+  },
+  "registration-guidelines-2013": {
+    "file": "registration-guidelines-2013.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "872696f57ed298f1c133e4f78d85c31f37c0ed25ddb6f894d10dde80efe39c98",
+    "bytes": 71454
+  },
+  "supplementary-elections-press-2023": {
+    "file": "supplementary-elections-press-2023.pdf",
+    "retrieved_date": "2026-11-05",
+    "sha256": "3882c033eec91202372f1f021940002a3b46cc7a9e8513c471cd4d80c910a9a9",
+    "bytes": 88620
+  }
+}

@@ -1,0 +1,1136 @@
+{
+ "document": {
+  "id": "cvr-guide-2013",
+  "title": "Continuous Voter Registration Guide",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/documents/resources/articles/ContinuousVoterRegistrationGuide.pdf",
+  "status": "historical",
+  "publication_date": "2013-07-15",
+  "publication_date_basis": "PDF file creation date (not a stated publication date)",
+  "description": "A registration guide from about 2013, kept for background. Procedures may have changed.",
+  "category": "Voter registration",
+  "extraction": "digital",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "e456325ec90f86ab35dfcb24553e837f6e16fb68b6bff22ae1fa9eeb3d147d8b",
+  "page_count": 105
+ },
+ "chunks": [
+  {
+   "chunk_id": "cvr-guide-2013-0000",
+   "text": "FOREWORD\nThe function of a successful election is a credible Register of Voters. The\nRegister of Voters is the basis for determining who is eligible to vote and who is\nnot on Election Day. While the existing Register of Voters used in 2003 General\nElections served the purpose to a great extent, it had profound limitations, one of\nwhich is was the absence of the photograph of the voter. Important to the success of future elections in Nigeria is a Register of Voters that\ncontains essential information on every eligible citizen such as name, age,\ngender, address, photograph and thumbprints etc.; hence the current efforts of\nthe Commission at validating the Register of Voters with the Automated\nFingerprint Identification System (AFIS) and photograph of the voter. It is hoped\nthat the Register of Voters obtained through this process will be devoid of fraud\nand multiple registration; in other words, credible.",
+   "page": 2,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0001",
+   "text": "It is hoped\nthat the Register of Voters obtained through this process will be devoid of fraud\nand multiple registration; in other words, credible. As always, Registration Officials are a very critical part in the voter registration\nprocess. On engagement, they commit themselves to a process that will\nguarantee the credibility of elections in Nigeria. The commitment of the\nRegistration Officials to their duties will enhance the process of democratization\nin our country. The Independent National Electoral Commission (INEC) is pleased with the entire\ngamut of Registration Officials. These include the SAROs, AROs, DO and\nREVOs. In whatever capacity one is functioning, it is honourable that each has\nthe opportunity to serve the country in the process of enhancing democracy. The\nCommission is optimistic that the enabling laws and registration guidelines would\ngreatly influence this exercise.",
+   "page": 2,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0002",
+   "text": "of enhancing democracy. The\nCommission is optimistic that the enabling laws and registration guidelines would\ngreatly influence this exercise. It is therefore my pleasure to congratulate all the officials who have been\nappointed to realize the dream of this manual. I wish you all a good success. Prof. Maurice M. Iwu\nChairman, INEC",
+   "page": 2,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0003",
+   "text": "TABLE OF CONTENTS PAGE NOS\nFOREWORD\nTABLE OF CONTENTS\nLIST OF ACRONYMS\nGLOSSARY\nABOUT THIS MANUAL\nINTRODUCTION\nMODULE 1- OVERVIEW OF THE VOTER REGISTRATION PROCESS\nMODULE 2- PERSONNEL INVOLVED IN THE REGISTRATION\nPROCESS\nMODULE 3- PREPARING FOR REGISTRATION, OPENING AND\nCLOSING OF THE REGISTRATION CENTRES\nMODULE 4- REGISTRATION PROCEDURES\n(OPENING THE DDC SYSTEMS FOR REGISTRATION OF VOTERS)\nMODULE 5- DISPLAY OF THE PRELIMINARY VOTERS REGISTER\nMODULE 6- HANDLING CLAIMS AND OBJECTIONS\nAPPENDICES",
+   "page": 3,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0004",
+   "text": "LIST OF ACRONYMS\nAdm. Sec Administrative Secretary\nAEO Assistant Electoral Officer\nAFIS Automated Finger Identification System\nAREVO Assistant Revision Officer\nARO Assistant Registration Officer\nDDC Direct Data Capture\nDOB Date of Birth\nEO Electoral Officer\nFRV Final Register of Voters\nINEC Independent National Electoral Commission\nLGA Local Government Area\nNPF Nigeria Police Force\nNSCDC Nigeria Security and Civil Defence Corps\nOCP Occupation\nPRV Preliminary Register of Voters\nPU Polling Unit or Registration Centre\nRA Registration Area\nREC Resident Electoral Commissioner\nREVO Revision Officer\nSARO Supervisory Assistant Registration Officer\nSRV Supplementary Register of Voters\nST4e Smart Terminal 4e (DDC unit)\nTVL Transfer Voters' List\nVIN Voter Identification Number",
+   "page": 4,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0005",
+   "text": "GLOSSARY\nApplicant Any person seeking to be registered as a voter (used\ninterchangeably with the term \"prospective registrant\")\nBiographic Data Name, address and other personal details of a\nregistrant\nBiometric data Registrant's thumbprints in the database\nClaim Request made by a person registered to have his/her\nname and/or particulars amended or included in the\nPRV\nCold Laminate Manual sealing of the voter's card\nElection Observer Is an independent person or organization saddled with\nthe responsibility of keeping watchful eyes on the entire\nregistration process but has no active participation, and\nDOES NOT interfere in the conduct of the process. Objection Request made by any member of the public against the\ninclusion of names and details of another person from\nthe PRV on the ground that such a person does not\nqualify to be registered in the particular area or centre\nor is deceased.",
+   "page": 5,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0006",
+   "text": "of another person from\nthe PRV on the ground that such a person does not\nqualify to be registered in the particular area or centre\nor is deceased. Particulars/Details Personal details of any person registered or wishing to\nbe registered such as age, address, gender,\noccupation etc. Polling Unit A designated location or venue (within a\nPolling/Registration Area) for the compilation of the\nnames and particulars of persons eligible to vote at an\nelection. Prospective Registrant A person seeking to be registered as a voter (also\ncalled an applicant or registrant)\nRegistrant Any person seeking to be registered as a voter who\nhas undergone any part of or completed the\nregistration process",
+   "page": 5,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0007",
+   "text": "Registration Area The smallest geographical area covering a specific\nnumber of registration centres for the purposes of\nregistration.\nRegistration Centre A designated location or venue (within a Registration\narea) for the compilation of the names and particulars\nof persons eligible to vote at an election\nRegistration official Any official of INEC, temporary or permanent, charged\nwith duties concerning the registration of voters\nRegistration of Voters The identification of persons eligible to vote in an\nelection and the compilation of a list of the personal\ndetails of such persons.\nReg. Centre/PU Used interchangeably to refer to the place of\nregistration.\nST4e Handheld Smart Terminal (ST4e) device used for direct\ndata capture of a voter's details\nStylus Pen Pen-like device attached to the DCC device used for\nkeying information into the DCC device.\nWebcam Digital camera used for taking photographs during\nregistration.",
+   "page": 6,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0008",
+   "text": "ABOUT THIS GUIDE\nThis guide is designed for Voter Officials who will be involved in the registration of\nprospective voters, the updating and maintenance of the Register of Voters. The\nguide also provides Registration officials with relevant information on how to carry\nout their duties and responsibilities in accordance with the electoral law and\nregistration guidelines. It contains simple and clear instructions for all Registration\nOfficials involved in continuous voter registration, and in the updating and\nmaintenance of the Register of voters. This document contains a list of Acronyms, a Glossary and an Introduction. It has\nsix modules. Module 1 gives an overview of the continuous voter registration\nprocess. Module 2 deals with the people involved in the continuous voter\nregistration, while Module 3 is on preparation, the materials and equipment for\nvoter registration, the operative hours for voter registration.",
+   "page": 7,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0009",
+   "text": "voter\nregistration, while Module 3 is on preparation, the materials and equipment for\nvoter registration, the operative hours for voter registration. Module 4 deals with\nvoter registration procedure using the DCC system, what it entails and the order\nof events. Module 5 deals with the display of the Preliminary Register of Voters\n(PRV) and, the hearing and determination of claims and objections. The\nappendices form the last part of the guide. The guide may not provide all the answers to every question that may arise in\nconnection with the continuous voter registration process. Registration Officials\nwill therefore be expected to read and interpret the sections of the Electoral act\n2006 governing voter registration and their own practical experience in the\nsubject area to be able to undertake the continuous voter registration.",
+   "page": 7,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0010",
+   "text": "governing voter registration and their own practical experience in the\nsubject area to be able to undertake the continuous voter registration. Political Parties, Candidates and their Agents, Security Agents, Observers and\nother stakeholders in the electoral process will find this guide useful in\nunderstanding the continuous voter registration process. Especially they will\nappreciate the new voter registration system which has been designed to\neradicate all manner of malpractices in the registration of voters. The credibility of\nthe voter registration process is the aim of this effort which it is hoped will, among\nother things, guarantee success towards a sustainable electoral democracy in\nNigeria and all other electoral stakeholders.",
+   "page": 7,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0011",
+   "text": "INTRODUCTION\nVoter registration is the identification of persons who are eligible to vote in an\nelection and the compilation of a list of all such persons referred to as a Register\nof Voters. The 1999 Constitution requires that only citizens who have registered\nas voters and the names are included in the Register of Voters shall be entitled to\nvote at an election or referendum. All citizens of Nigeria who have reached the\nage of 18 years and above and have the requisite eligibility to register, and wish\nto be registered as voters must present themselves at designated venues of\noffices of INEC in their respective Local Government Areas (LGA) for inclusion in\nthe list called the Register of Voters. New applicants will be required to show\nproof of their eligibility to register as voters and will be required to provide their\npersonal details such as name, age, gender, occupation, home address,\nphotographs and thumbprints to the Registration Officials.",
+   "page": 8,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0012",
+   "text": "to provide their\npersonal details such as name, age, gender, occupation, home address,\nphotographs and thumbprints to the Registration Officials. INEC has the legal mandate to register voters and, to maintain and revise the\nRegister of Voters. Before 2006, INEC (and the electoral commission preceding\nit) carried out periodic registration of voters in the period immediately preceding\nthe general elections so as to prepare the Register of Voters. In addition, the\nvoter registration process was manual. The last registration incorporated\ntechnology in the process through the Optical Mark Reader (OMR) technology\nand computerization of the voters' roll. The result was an Electronic Voters\nRegister (EVR) which contained a high percentage of voter dislocation owing to\nerrors in the shading of the OMR forms. The electoral Act 2006 provides for continuous registration of voters.",
+   "page": 8,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0013",
+   "text": "of voter dislocation owing to\nerrors in the shading of the OMR forms. The electoral Act 2006 provides for continuous registration of voters. With the\nintroduction of the continuous registration of voters, INEC is in a position to\nregister new voters, compile, maintain and update the Register of Voters on a\ncontinuous basis e INEC for the period immediately preceding a general election. The continuous registration of voters enables INEC to update the Register of\nVoters by adding names of persons:  who have attained 18years of age and were not previously registered;  who have acquired Nigerian citizenship;  who have transferred to a different constituency or other centres within the\nsame constituency. It also enables INEC to make corrections to details of voters – upon request –\nand to delete from the Register of Voters the names of:  deceased persons or\n those persons who no longer meet the registration requirements.",
+   "page": 8,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0014",
+   "text": "Moreover, the Direct Data Capture (DDC) system for voter registration is\ncurrently in practice. The process involves directly capturing the names and other\ndetails of voters such as date of birth, gender, address, occupation, photograph,\nand thumbprints of every voter, using the electronic DDC equipment that stores\nthe information and also prints out the temporary voter's card (TVC) – which is\nissued to the voter immediately – and entering the same information manually on\nForm EC. 1A. it is hoped that this approach will achieve minimization or outright\nelimination of the drawbacks of both the manual and the OMR technology, and\nthereby produce a credible Register of Voters. After the period allocated for field compilation, a preliminary Register of Voters\n(PRV) is printed out and displayed for public scrutiny for a period of not less than\nfive days and not more than 14days.",
+   "page": 9,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0015",
+   "text": "Register of Voters\n(PRV) is printed out and displayed for public scrutiny for a period of not less than\nfive days and not more than 14days. This is to give the public the opportunity to\nconfirm the inclusion of their names and other details in the register, make claims\nof correction of misspelt names and wrong particulars and of omission, and file\nobjections to the inclusion of names of persons that should not be included in the\nRegister. After the determination of claims and objections, the SRV is produced\nand included in the revised Register of Voter which shall be certified by the\nCommission as the officer register for any election thereafter.",
+   "page": 9,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0016",
+   "text": "MODULE 1: OVERVIEW OF THE VOTER REGISTRATION PROCESS\nObjectives: After you have read this Module, you should be able to: • Understand what voter registration is and the continuous registration\nprocess. • Be familiar with the different types of voter registration\n• Identify persons who qualify to register as voters. • Be familiar with the hours of registration and registration period. • Discuss the content of the Register of Voters. 1.1 What Is Voter Registration?\nVoter Registration is the process of identifying citizens eligible to vote in an\nelection and compiling their personal details in a list called Register of Voters. Methods used for voter registration vary from one country to another, but it is\ngenerally agreed that voter registration serves the following purposes, it: • Brings eligible people into the electoral process; • Prohibits unqualified persons from voting by ensuring that only qualified\nvoters are registered;",
+   "page": 10,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0017",
+   "text": "Brings eligible people into the electoral process; • Prohibits unqualified persons from voting by ensuring that only qualified\nvoters are registered; • Provides an opportunity for making claims and objections about eligibility; • Guarantees and enables all those legally qualified to vote to do so; • Ensures equality of vote; • Prevents voters from voting more than once at any election and thus\nensures equality of the vote; • Provides information about how many people are eligible to vote in an\nelection and how they are distributed around the country. 1.2 Types of Voter Registration\nThere are three main types of voter registration. These are: 1.2.1 Periodic Voter Registration\nFor the periodic voter registration, a new Register of Voters is prepared every\ntime there is an election and is used only for purposes of that election. Generally,",
+   "page": 10,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0018",
+   "text": "the Register of Voters is prepared and produced in the period immediately\npreceding an election. 1.2.2 Civil Registry Voter Registration Process\nThis approach to voter registration integrates information about citizens from the\ncivil register that is maintained by the government. Under this approach voters\nare automatically registered to vote and changes in residence are usually\nreflected in the registration status without necessary action by the voter. 1.2.3 Continuous Voter Registration\nThe continuous voter registration process is based on an initial Register of Voters\nthat is constantly maintained and updated by electoral officers. It evolves over\ntime and is used for successive elections. Under the process the initial Register\nof Voters is continuously updated by adding names of eligible voters as well as\ndeleting the names of those who no longer have been declared legally\nincompetent.",
+   "page": 11,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0019",
+   "text": "continuously updated by adding names of eligible voters as well as\ndeleting the names of those who no longer have been declared legally\nincompetent. In addition, the registration officials may, upon request, update\ninformation about voters who have relocated or who have married and changed\nsurnames. 1.3 Overview of Voter Registration in Nigeria\nThe framework for conducting Voter registration is provided principally by\nElectoral Act 2006 and the Constitution. Prior to 2002, the periodic registration of\nvoters' was the practice and the records registered voters were manually kept. Eligible voters present themselves at designated venues of their choices to\nregister as voters and be issued with voters' cards for purposes of voting for that\nparticular election. At the end of the registration exercise a manual register was\ncompiled for public scrutiny for a period of 5 days.",
+   "page": 11,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0020",
+   "text": "for that\nparticular election. At the end of the registration exercise a manual register was\ncompiled for public scrutiny for a period of 5 days. Thereafter, the final register\nwas then produced and made available on election days as the basis for\nidentifying those eligible to vote. For the 2003 elections, after having to contend with the flawed manual Register\nof Voters, the Commission incorporated the computerization of the Register of\nvoters using the OMR technology. Despite efforts at computerization of the\nRegister of Voters, the process still had its drawback, such as: multiple\nregistration; incorrect information of voters; omissions of names and \"ghost\"\nentries, etc. Following the enactment of the Electoral Act 2006, the Commission\nis now obliged to compile, maintain and update the Register of Voters on a",
+   "page": 11,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0021",
+   "text": "continuous basis. In addition, the OMR system for voter registration has been\nreplaced with the DDC system. The DDC system for voter registration facilitates\ndirect capture of voters' details, data backup and transfer. 1.4 What Does The Continuous Voter Registration Process Entail?\nThe continuous voter registration process involves: 1.4.1 Adding New Voters\nAdding to the Register of Voters new registrants, who meet the\nrequirements to be registered as voters (e.g. people who have reached\nvoting age, become citizens, or become newly eligible to vote). Applicants\nwishing to be registered as voters must present themselves before the\nElectoral Officer (EO). 1.4.2 Transfer of Registered Voters\nRegistered voters who have moved from one Constituency to another\nbefore an election and who wish to vote in the new constituency, may\ntransfer the registration from the old constituency to the new one by\napplying to the EO in the constituency.",
+   "page": 12,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0022",
+   "text": "to vote in the new constituency, may\ntransfer the registration from the old constituency to the new one by\napplying to the EO in the constituency. The EO processing the transfer\nmust notify the EO of the area where the applicant is transferring from. 1.4.3 Changing Registration Details\nThis applies to registered voters, whose claims against misspelt names\nand/or wrong details and of omission have been successful. It also applies\nto registered voters whose marital status has changed and may wish to\nhave their registration details changed. 1.4.4 Deleting Registration Details\nThis is applicable to objections to the inclusion of names of persons that\nshould not be included in the Register of Voters (e.g. people who are\nunderage, are not citizens or do not meet the residency requirements). In\naddition, it includes the removal of names of people who are of Register of\nVoters but have since died or ceased to meet the eligibility requirements.",
+   "page": 12,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0023",
+   "text": "In such circumstances, the EO must be satisfied by the evidence adduced\nto this effect. 1.4.5 Replacing Damaged or Lost Voters' Cards\nA voter whose card is lost, destroyed, defaced, torn or otherwise damaged\nmay apply to the EO to have his/her voter's card replaced. The EO may\nrequire proof from the applicant stating the circumstances of the loss or\ndamage of the voter's card. However, it should be noted that the deadline\nfor the replacement of damaged or lost voters' card is 30days before the\nelection date. 1.4.6 Inclusion of the Supplementary List to the Register of Voters\nAfter the expiry period for claims and objections, the supplementary List\nshall be included in the revised Register of Voters not later than 60 days\nbefore a general election. 1.5 Content of the Register of Voters\nThe Register of Voters in an electoral democracy is a fundamental component of\nthe voting system.",
+   "page": 13,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0024",
+   "text": "election. 1.5 Content of the Register of Voters\nThe Register of Voters in an electoral democracy is a fundamental component of\nthe voting system. The primary purpose of the Register of Voters is to confirm the\neligibility of voters to participate in an election. It contains only names and details\nof those who qualify and applied to the registered voters. The Register of Voters\nproduced under the continuous process is a list of all currently eligible voters,\nupdated and maintained to take account of voter registration changes between\nelections. The Register of Voters contains the following details:  The Coat of Arms of the Federal Republic of Nigeria.  The code number and name of the State.  The code number and name of the LGA.  The code number and name of the Registration Area (RA).  The code number and name of the Registration Centre/Polling Unit.  The Voter Identification Number (VIN) of the voter.  The names of the voter beginning with the surname followed by other\nnames.",
+   "page": 13,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0025",
+   "text": "Unit.  The Voter Identification Number (VIN) of the voter.  The names of the voter beginning with the surname followed by other\nnames.  The gender of the voter.  The age of the voter.  The code number indicating the occupation of the voter.  The passport size photograph of the voter.",
+   "page": 13,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0026",
+   "text": "Because the Register of Voters determines who can vote at an election, it must\nbe well maintained and updated regularly. Every care must be taken in handling\nthe Register. It is therefore important for the EO to ensure that:  Only those persons who apply and qualify to be registered as voters have\ntheir names and other details accurately entered in the Register of Voters.  The names of deceased persons and voters who cease to meet the legal\nrequirements are deleted from the Register of Voters. 1.6 Qualification for Registration as a Voter\n1.6.1 Qualifications\nA person shall be qualified for registration if such a person: i. is a citizen of Nigeria; ii. has attained the age of 18 years or above on or before registration\nday; iii. is ordinarily resident in, works in or originates from Local\nGovernment Area or ward covered by the registration centre; iv. is not subject to any legal incapacity to vote under any law, rules or\nregulations in force in Nigeria; v.",
+   "page": 14,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0027",
+   "text": "covered by the registration centre; iv. is not subject to any legal incapacity to vote under any law, rules or\nregulations in force in Nigeria; v. presents himself/herself to the Registration Officers for registration\nas a voter with any of the following documents;  birth or baptismal certificate;  national passport or identity card;  driver's license;  any other document that will prove the identity, age and\nnationality of the applicant. 1.6.2 Where Can a Person Register?\nUnder the continuous process, registration of voters is carried out during\nnormal office hours at INEC's office LGA offices or specifically chosen venues of\nconvenience the Electoral Officer might find appropriate for the exercise within\nthe LGA. A person can register only once and at a registration centre designated\nby the Commission, in the area where he/she: i. resides\nii. works in gainful employment, or\niii. originates from (i.e. an indigene)\n1.7 Voter Registration Period",
+   "page": 14,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0028",
+   "text": "1.7.1 Registration Period\nAn initial general registration of voter will take place all over the country at\ndesignated registration venues from the 25th October, 2006 to the 14th\nDecember 2006. Thereafter, the voter registration process shall be\ncontinuous and terminate not later than 120 days before a general\nelection. 1.7.2 Hours of Registration\nRegistration shall commence at 9:00a.m and end at 3:00p.m daily, and\nmay be extended to include Saturdays and Sundays as well as public\nholidays. 1.8 Status of the On-Going Voter Registration\nThe following is noteworthy: The commission embarked on electronic registration of voters in 2002. This effort\nproduced the electronic voters register (EVR), which was used for the 2003\ngeneral elections and still exists. That registration exercise was inconclusive as it\ndid not incorporate the photograph of the voter as contemplated.",
+   "page": 15,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0029",
+   "text": "elections and still exists. That registration exercise was inconclusive as it\ndid not incorporate the photograph of the voter as contemplated. The current registration of voters, seeks to register citizens that were not\nregistered in 2002/2003 for whatever reason – either they were not yet 18 years\nof age at the time or were out of the country or were legally incapacitated to\nregister at the time, etc. it also seeks to revalidate the registration of those who\nregistered in 2002/2003. Registration for new registrants, - i.e. those who were not registered before,\nterminates on 14th December, 2006. However, revalidation of those who were\nregistered in 2002/2003 continues and terminates on 31st January, 2007. The\nPreliminary Register obtained from the on-going registration will be displayed for\npublic scrutiny, and people are encouraged to go out and ascertain that their",
+   "page": 15,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0030",
+   "text": "names appear in the register. The display will be on for a period of not less than 5\ndays and not exceeding 14 days. This is to provide opportunities for members of\nthe public to make claims and objections; and for the claims and objections to be\nheard and determined. The supplementary register that emerges thereafter shall\nbe merged with the revalidated register latest 13th February, 2007 and published\nas the substantive voters register for the country which will be used for the 2007\ngeneral election.",
+   "page": 16,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0031",
+   "text": "MODULE 2: PERSONNEL INVOLVED IN THE REGISTRATION PROCESS\nObjectives: After you have read this Module, you should be able to: • Identify the various personnel involved in the registration process. • Understand and know the duties of the different categories of registration\npersonnel. • Understand and internalize the professional ethics for registration officials. 2.1 Registration Personnel\nThese are officers of INEC who supervise or execute the actual conduct of voter\nregistration. They include: • Resident Election Commissioners (RECs)\n• Administrative Secretaries (Adm. SEC)\n• Training Officers\n• Electoral Officers (EOs)\n• Assistant Electoral Officers (AEOs)\n• Assistant Registration Officers (AROs)\n• Revision Officers (REVOs)\n2.1.1 Resident Electoral Commissioner (REC)\nFor purposes of the voter registration exercise, the Resident Electoral\nCommissioner (REC) is the State Registration Officer.",
+   "page": 17,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0032",
+   "text": "Commissioner (REC)\nFor purposes of the voter registration exercise, the Resident Electoral\nCommissioner (REC) is the State Registration Officer. He/she is in-charge of the\nentire registration exercise in a state and is accountable to the Commission. He/she is assisted by the Administrative Secretary. The primary duties of the REC are as follows: i. be responsible to the Commission for the coordination of the continuous\nvoter registration in his/her state; ii. facilitate the registration of voters, and the maintenance and update of the\nRegistration of voters in his/her state by providing logistic, administrative\nand other support to all registration officials under him/her.",
+   "page": 17,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0033",
+   "text": "iii. take delivery of al materials, sensitive and non-sensitive and equipment for\nhis/her state from the Headquarters, and effect their distribution to\nregistration centres; iv. ensure that voter registration materials and equipment are adequate and in\ngood condition throughout the entire voter registration period; v. provide sufficient security of the registration materials and equipment\nduring storage, delivery and use for the same at registration centres; vi. supervise the recruitment, training and deployment of permanent and ad\nhoc Registration Officials; vii. supervise the collection, collation and storage of data from all registration\nand display centres for his/her state, and send such data to the\nHeadquarters; viii. report to Headquarters any failure or malfunctioning of equipment so that\nnecessary action is taken to address the problem; ix. coordinate the display of the PRVs in all designated centres in his/her\nstate; x.",
+   "page": 18,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0034",
+   "text": "so that\nnecessary action is taken to address the problem; ix. coordinate the display of the PRVs in all designated centres in his/her\nstate; x. coordinate the hearing and determinations of claims and objections in\nhis/her state; xi. supervise maintenance and update of Register of Voters in his/her state; xii. assist in the publicity of the voter registration exercise within his/her state. 2.1.2 Administrative Secretary\nThe Administrative Secretary is the Administrative head and the Chief\naccounting officer of the state office. He/she assists the REC and acts for him/her\nin the absence of the latter. For the purposes of continuous registration of voters,\nhe/she collaborates with the REC in facilitating the process. 2.1.3 Training Officers\nHandle all aspects of training Registration Officials.",
+   "page": 18,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0035",
+   "text": "voters,\nhe/she collaborates with the REC in facilitating the process. 2.1.3 Training Officers\nHandle all aspects of training Registration Officials. 2.1.4 Electoral Officer (EOs) and Assistant Electoral Officers (AEOs)\nThe Electoral Officer (EO) is the Local Government Area Registration Officer\nand is responsible for the continuous voter registration process in his/her LGA. He/she reports to the REC. The EO is assisted by the Assistant Electoral Officer\n(AEO).",
+   "page": 18,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0036",
+   "text": "The primary duties of the EO are as follows: i. be responsible to the Commission for the voter registration process in\nhis/her LGA; ii. take delivery of all registration and display materials and equipment from\nthe State office for distribution to and use at the registration and display\ncentres in his/her LGA; iii. ensure sufficient security of the registration materials and equipment\nduring storage, delivery and use of the same in his/her LGA; iv. assist in the recruitment, training, deployment and supervision of the ad\nhoc registration officers in his/her LGA; v. supervise the collection, collation and storage of data from all the\nregistration and display venues in his/her LGA and send such data to the\nstate office; vi. report to REC any failure or malfunctioning of equipment so that necessary\naction is taken to address the problem; vii. coordinate the display of the PRV at designated venues in his/her LGA; viii.",
+   "page": 19,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0037",
+   "text": "equipment so that necessary\naction is taken to address the problem; vii. coordinate the display of the PRV at designated venues in his/her LGA; viii. receive completed claims and objection forms, if any, and forward them to\nthe REC's office; ix. coordinate the hearing and determination of claims and objections in\nhis/her LGA; x. after the expiry of the initial general registration of voters, continue to\nregister new voters, maintain and update the Supplementary Register of\nVoters (SRV); xi. supervise and coordinate the maintenance and update the Register of\nVoters in his/her LGA; xii. assist in the publicity of the continuous voter registration exercise within\nhis/her LGA . 2.1.5 Ad Hoc Registration Officials\nFor the nationwide identification of persons who qualify to vote at an election, and\nfield compilation of the Register of Voters, INEC normally deploys ad hoc\nRegistration Officials to handle the process at designated centres.",
+   "page": 19,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0038",
+   "text": "and\nfield compilation of the Register of Voters, INEC normally deploys ad hoc\nRegistration Officials to handle the process at designated centres. These officers\ninclude AROs, SAROs and REVOs to hear and determine claims and objectives. For continuous registration, however, the EO shall handle the process or any\nfull-time staff of the Commission chosen by him/her.",
+   "page": 19,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0039",
+   "text": "2.1.5.1 Assistant Registration Officers (AROs)\nThere shall be Assistant Registration Officers (AROs) who shall be responsible\nfor the registration and display activities at each centre throughout the entire\nperiod of the initial general voter registration process. They report to the EO. Note: The ARO I will be the overall Officer in Charge and will be assisted by\nthe ARO II. The duties of the AROs include the following: 2.1.5.1.1 The ARO I\nThe primary duties of the ARO I are: i. take delivery of all materials and equipment for the registration centres\ndesignated to him/her; ii. ensure safety of all materials and equipment for the registration centres\ndesignated to him/her; iii. ensure that the registration centre is set up and ready before the\ncommencement of voter registration each day; iv. ensure the DDC equipment is sufficiently charged (for at least 8 hours)\nbefore the commencement of voter registration each day; v.",
+   "page": 20,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0040",
+   "text": "each day; iv. ensure the DDC equipment is sufficiently charged (for at least 8 hours)\nbefore the commencement of voter registration each day; v. ensure that all eligible persons wishing to register, are registered, and their\nnames, other details, photographs and thumbprints are captured and\nstored using the DDC equipment; vi. print out temporary voter cards and laminate them before issuing them to\nvoters; vii. make daily backup of voters' data captured at the registration centre using\nthe prescribed format and submit the same to thee EO; viii. account for all forms used for registration daily, and at the end of the initial\ngeneral registration of voters; ix. report any security incident or concern to the Security Agent at the centre\nor the EO; x. print the PRV for the registration centre for public scrutiny; xi. prepare daily reports on the registration exercise and submit them to the\nEO; xii.",
+   "page": 20,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0041",
+   "text": "print the PRV for the registration centre for public scrutiny; xi. prepare daily reports on the registration exercise and submit them to the\nEO; xii. at the end of the initial general registration period, return all unused forms\nand other materials and equipment to the EO.",
+   "page": 20,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0042",
+   "text": "2.1.5.1.2 Assistant Registration Officer II (ARO II)\nThe ARO II primarily has the following duties: During the registration exercise; i. assist the ARO I in preparing the registration centre for the voter\nregistration and managing the centre; ii. manually register each applicant by entering their names and other details\nincluding the right thumbprint on Form EC.1A\niii. apply indelible ink on each registered voter's left thumbnail near the cuticle\nas proof that the voter has already registered. After the registration exercise and during the display of the PRV; i. take delivery of all materials and equipment, including two copies of the\nPRV necessary for the display exercise for the centre designated to\nhim/her; ii. ensure safety of the PRV and all materials and equipment; iii. ensure that the display centre is set up and ready before the\ncommencement of the display of the PRV each day; iv. coordinate the display of the PRV; v.",
+   "page": 21,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0043",
+   "text": "that the display centre is set up and ready before the\ncommencement of the display of the PRV each day; iv. coordinate the display of the PRV; v. if any, receive and record claims for, and objections to any entry of\nomission from the PRV; vi. forward completed claim and objection forms, if any, to the EO. Note: AROs retain the right to bar anyone from entering the registration\nand display centres, should the individual disturb the peace. 2.1.5.1.3 Revision/Update Officers (REVOs)\nThe Revision/Update Officers (REVOs) are appointed to hear and determine\nclaims for and objections to any entry in or omission from the PRV, and for\nupdating the Register of Voters. Working closely with the EO, the primary duties\nof the REVO are: During the hearing and determination of claims and objections period:",
+   "page": 21,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0044",
+   "text": "i. receive completed forms of claims for correction or omission of\nparticulars in the PRV from the EO in his/her LGA or State; ii. review each claim and objection; iii. notify the public of the dates and venues for hearing and\ndetermination of claims and objections; iv. hear and determine claims in his/her LGA; v. make decisions on each claim and objection brought to his/her\nattention; vi. produce a report on the hearing and determination of claims and\nobjections and submit the same to the EO; Under continuous voter registration; vii. may assist the EO in updating and maintaining the SRV. Note: The Commission shall set dates for hearing and determination of\nclaims and objections which shall not be later than 60 days to the day of\nelection.",
+   "page": 22,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0045",
+   "text": "The Commission shall set dates for hearing and determination of\nclaims and objections which shall not be later than 60 days to the day of\nelection. 1.5.1.4 Security Agents\nA Security Agent is any security officer seconded from the Nigerian Police Force\n(NPF) or Nigeria Security and Civil Defence Corps (NSCDC) or any other security\nagency mandated to enforce and maintain law and order throughout the entire\nvoter registration period. In addition, the Security Agent is also responsible for the\nsecurity and protection of the registration personnel, materials and equipment,\nand other stakeholders. It is important that the voter registration be conducted\nwithout any disturbance or threat to the peace. A Security Agent assigned to a registration or display centre is responsible for: i. ensuring security, law and order at the registration and display\ncentre he/she is designated to; ii. ensuring that the registration and display exercises are conducted\nwithout any disturbance; iii.",
+   "page": 22,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0046",
+   "text": "and display\ncentre he/she is designated to; ii. ensuring that the registration and display exercises are conducted\nwithout any disturbance; iii. arresting, on the instruction of the Registration Official, any\nperson(s) causing any disturbance or preventing any eligible voter\nfrom being registered or threatening the peace at the registration",
+   "page": 22,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0047",
+   "text": "and display centres;\niv. for the security and protection of the Registration Officials, materials\nand equipment at the registration and display centres.\nNote: Security Agents have unlimited access to the registration and display\ncentres at all times, BUT DO NOT have the right to interfere with the\nRegistration process.\n2.2 Professional Ethics for Registration Officials\nAs a Registration Official, you are playing an important role in the electoral\nprocess. The manner in which you discharge your duties will affect the\nconfidence of the citizens in the electoral process and the election\nauthority. You should be courteous, polite and helpful at all times. All your\nactions and activities should be characterized by the highest standards of:\n• Integrity\n• Impartiality\n• Transparency\n• Fairness, and\n• Professionalism\nRegistration Officials must not be members of any political party.",
+   "page": 23,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0048",
+   "text": "MODULE 3: PREPARING FOR REGISTRATION, OPENING AND CLOSING OF\nTHE REGISTRATION CENTRES\nObjectives\nAfter you have read this module, you should be able to: • Identify and be familiar with the materials and equipment used for\nregistration. • Recognize when to open and close the registration centres. • Prepare for registration and arrange the registration centre. • Be familiar with daily operating procedures, including opening and closing. • Be familiar with the closing procedure at the end of the registration period. 3.1 Things to Do before Opening the Registration Centre\n3.1.1 Receiving Registration Materials and Equipment\nThe EOs and the AROs, must ensure that they have received all\nregistration materials and equipment before the commencement of\nregistration activities. They MUST report to their immediate superiors any\nshortages or missing materials and equipment AS SOON AS POSSIBLE.",
+   "page": 24,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0049",
+   "text": "of\nregistration activities. They MUST report to their immediate superiors any\nshortages or missing materials and equipment AS SOON AS POSSIBLE. Their superiors must also be notified early enough to replenish supply\nbefore the centres run out of the necessary materials for operation. 3.1.1.2 Checklist of Equipment and Materials\n3.1.1.2.1 Equipment and Materials\nEach voter registration centre shall receive the following equipment and materials\nbefore commencement of registration:",
+   "page": 24,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0050",
+   "text": "Type Description Use Qty\nBiros Black or Blue in colour Used for writing 4\nSemi-indelible\nink\nBlack/Indigo liquid that\ncannot be easily erased\nUsed for marking the\nvoter thumbprint on\nForm EC. 1A\nCommission\nstamp\nUsed for stamping\nofficial documents\nGum/Cellotape Used for sealing\nenvelops and pasting\nposters to the wall\nTwine Used for tying and\nsecuring materials in\nenvelops and bags.\nDDC equipment Set of assorted electronic\nkit\nUsed for electronically\ncapturing information of\na voter at the\nregistration centre\nLaptop Portable Computer Used for electronically\ncapturing information of\na voter at the\nregistration centre\nPlastic bag 1\nBatching\nenvelops\nTables 2\nChairs 2\nCold laminate\npouches\n500+\nPrinting paper 500+\nPrinter cartridge\nand toner",
+   "page": 25,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0051",
+   "text": "Backdrop Cloth 1\n3.1.1.2.2 List of Forms:\nEach voter registration centre shall receive the following forms before\ncommencement of registration:",
+   "page": 26,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0052",
+   "text": "Type Description Use\nForm EC.1A Manual Register of\nVoters\nUsed for the manual Registration of new\napplicants. Form EC.1B Certificate Of\nCompletion Of\nRegistration\nUsed for entering: the total number of\npersons (male and female) registered. This form is completed at the end of the\nexercise and must be signed and dated\nby the ARO I/EO\nForm EC.1B (2) Daily Accounting\nForm\nUsed during the display of the PRV. This\nform is completed at the end of each day,\nand must be signed and dated by the\nARO/EO. Form EC.1C Statement of\nAdditions made by\nEO to the PRV\nUsed for listing out names and other\ndetails of those added to the PRV. This\nform must be signed and dated by the\nEO. Form EC.1D Statement of\nCorrections made\nby EO in the PRV\nUsed for listing out the corrections\neffected in the PRV. This form must be\nsigned and dated by the EO. Form EC.1E Statement of\nDeletions made by\nEO in the PRV\nUsed for listing out names and other\ndetails of persons who have been\ndeleted from the PRV.",
+   "page": 27,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0053",
+   "text": "Form EC.1E Statement of\nDeletions made by\nEO in the PRV\nUsed for listing out names and other\ndetails of persons who have been\ndeleted from the PRV. This form must be\nsigned and dated by the EO\nForm EC.1F Transferred Voter's\nList\nUsed for recording the particulars of\nvoters who transfer their registration from\none constituency to another. Form EC.2 Claim for\nCorrection,\nOmission or\nInsertion of Omitted\nnames in the PRV\nUsed for filing a correction to or\nomission/insertion of omitted names\nand/or other details in the PRV. This form\nmust be signed and dated by the\napplicant\nForm EC.3 Objections to Used for filing an objection against the",
+   "page": 27,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0054",
+   "text": "inclusion of a name\nin the PRV\ninclusion of another person's names and\nother details in the PRV. This form must\nbe signed and dated by the applicant. Form EC.3A Notification of\nDeath of a person\nwhose name\nappears in the\nRegister of Voters\nUsed for notification of death of a person\nwhose names and other details appear in\nthe Register of Voters. This form must be\nsigned and dated by the applicant. Form EC.17 Oath/affirmation of\nNeutrality\nCompleted and signed by all Registration\nOfficials on appointment. Form EC.20A Registration Centre\nPoster\nUsed to illustrate the layout/procedures\nat the registration centre\nForm EC.20B Registration Zone\nPoster\nForm EC.25A\nForm EC.25B\nForm EC.TF.01 Transfer of\nRegistration\nForm ECR.01 Notice of Rejection\nForm ECR.02 Records of\nRejected Applicants\nForm EC.60E Notice of Hearings\nof claims and\nobjections.",
+   "page": 28,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0055",
+   "text": "of\nRegistration\nForm ECR.01 Notice of Rejection\nForm ECR.02 Records of\nRejected Applicants\nForm EC.60E Notice of Hearings\nof claims and\nobjections. Upon receiving the above equipment, materials and forms at the registration\ncentre, the Registration Officials shall verify that all items are included, and sign\nfor Form EC.25 induplicate as receipts for the items. They must retain a copy of\nForm EC.25 and submit the original form to their immediate supervisors. 3.2 Preparing the Registration Venue",
+   "page": 28,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0056",
+   "text": "This section will help Registration Officials prepare the registration venues to\nensure that the voter registration exercise is executed effectively.\n3.2.2 Things to do During the Voter Registration Exercise\n3.2.2.1 Daily Opening of the Voter Registration Centres\nStep 1 MUST arrive earlier than 9:00a.m. at the centre with the briefcase\ncontaining either the Laptop or DDC equipment and all other\nmaterials, forms and equipment necessary for the registration\nexercise.",
+   "page": 29,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0057",
+   "text": "Step 2 Before unpacking the equipment and materials, one must ensure\nthe centre is neat and clean and that the tables and chairs are\narranged in the prescribed manner. Step 3 Should unpack all the materials and equipment and arrange them in\ntheir respective places/tables. Step 4 Should assemble DDC equipment or the Laptop and accessories on\nthe first table in readiness for registration, and ensure that the power\nto the equipment is switched on. Step 5 Should arrange Forms EC.1A and other relevant forms on the\ntogether with the writing materials, container containing the indelible\nink and the semi-ink pad. Step 6 Should always open the registration venue at 9:00a.m daily. 3.2.2.2 Daily Closure of the Voter Registration Centre\nThe ARO ensures that all persons waiting to register at 4:00p.m are registered\nbefore closing the registration centre for the day. Persons who arrives registration\ncentre after 4:00p.m are to be requested to return the next day.",
+   "page": 30,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0058",
+   "text": "closing the registration centre for the day. Persons who arrives registration\ncentre after 4:00p.m are to be requested to return the next day. At the close of the\ncentre at the prescribed time, the Registration Officials shall: Step 1 Crosscheck to ensure that the particulars of registrants captured in\nthe DDC device are entered on Form EC.1A. Step 2 Store all used and unused forms, materials and equipment in their\nrespective envelops/bags/cases provided for use the following day. Step 3 Store the Laptop or the DDc equipment in their respective encasing\nin the briefcase for use the following day. Note: The DDC charger should be left charging overnight (for at least 8\nhours) to reduce incidences of power failure during the day.",
+   "page": 30,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0059",
+   "text": "3.2.2.3 Closing Procedures on the Last Day of Voter Registration\nOn the last day of voter registration, which shall be not later than 120days before\na general election, as required by law, the EO or ARO shall: Step 1 Print copies of the PRV for the registration centre\nStep 2 Make available at least 2 copies of the PRV for purposes of public\nscrutiny during display of the PRV. Step 3 Complete and sign Form EC.1B. Step 4 Complete the required information on the batching envelopes. Step 5 Store the Laptop or DDC device and other accessories in their\nrespective briefcases. Step 6 Put all completed Forms EC.1A, EC 1B, in the appropriate batching\nenvelopes supplied, and seal it. Step 7 Put the backup device used for storing information for the\nregistration venue in its respective package. Step 8 Complete the following information on each batching envelope: • State\n• LGA\n• Registration Area\n• Registration Venue.",
+   "page": 31,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0060",
+   "text": "its respective package. Step 8 Complete the following information on each batching envelope: • State\n• LGA\n• Registration Area\n• Registration Venue. Step 9 Put the batching envelops containing the forms and all other\nmaterials (stamp, inkpad, etc) in the INEC bag supplied.",
+   "page": 31,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0061",
+   "text": "MODULE 4: REGISTRATION PROCEDURES\n(OPERATING THE DDC SYSTEMS FOR REGISTRATION OF VOTERS)\nObjectives: After you have read this Module you should be able to: • Identify and be familiar with the features and components of the three\ndifferent DDC systems for voter registration. • Understand how to assemble and dismantle the DDC systems. • Handle and operate the DDC systems for voter registration. • Carry out the registration of voters using the DDC systems. 4.1 Overview of DDC System for Voter Registration\nAll the DDC equipment (Laptop or the DDC device) for voter registration come\nwith pre-installed voter registration software. Using any equipment, the\nRegistration Officials should be able to: • Enter voter's locality and polling unit\n• Register voters'\no biographical data (details)\n• Capture voters': o passport size photographs\no thumbprints (both left and right thumbprints). • Print: o temporary voters' cards. o the PRV\n• Make changes/corrections to voters' details in the PRV.",
+   "page": 32,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0062",
+   "text": "(both left and right thumbprints). • Print: o temporary voters' cards. o the PRV\n• Make changes/corrections to voters' details in the PRV. • Update and maintain the Register of Voters. The Module is divided into 2 sections. The first section provides procedures for\nregistering voters using the different DDC equipment for voter registration. These\nare: • Section 4.2: Image Technology DDC System; • Section 4.3: BE.UNIK DDC System; • Section 4.4: IDL DDC System; • Section 4.5: Laptop\nSection 2 is on the actual steps to be followed during the registration exercise.",
+   "page": 32,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0063",
+   "text": "The procedures explained under this section should be adhered to by all\nRegistration Officials in registering voters. Depending on the DDC equipment\nsupplied, follow the registration procedures using the appropriate sub-section of\nthe Module to register voters.\n4.2 Image Technology DDC System\n4.2.1 Features and Components\nThe Image Technology DDC system for voter registration consists of the following\nfeatures and components, all packaged in a comfortable and elegant briefcase.\n[ IMAGE OF DDC]",
+   "page": 33,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0064",
+   "text": "4.2.1.1 Main Components of the System\nThe Main components of the Image Technology DDC system for voter\nregistration consist of the following:\nComponent Features\nIllustration Use\nWebcam\nUsed for taking\npassport-sized\nphotographs of\nregistrants. It is encased\nin the back right hand\nside of the briefcase.\nST4e(The\nDDC Unit)\nUsed for the direct data\ncapture of registrants. It\nis encased in the front\nright-hand side of the\nbriefcase. The Stylus Pen\nis attached to the ST4e.\nPrinter\nUsed for printing the\nTVCs and PRV. It is\nencased in the middle\nforefront of the briefcase.",
+   "page": 34,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0065",
+   "text": "Printer Cable Used for connecting the\nprinter to the ST4e via\nthe Battery Pack/USB\nHub. It is encased in the\nextreme front left side of\nthe briefcase.\nPrinter\nPower\nAdapter\nUsed for connecting the\nprinter directly to a power\nsupply. It is encased in\nthe front left side of the\nbriefcase behind the\nprinter cable\nST4e Cable Used for connecting the\nST4e to the printer via\nthe Battery Pack/USB\nHub. It is encased in the\nmiddle left side of the\nbriefcase.\nST4e Power\nAdapter\nUsed for connecting\npower directly to the\nST4e. It is encased in the\nback left side of the\nbriefcase behind the\nprinter cable.\nBattery\nPack/USB\nHub\nUsed for distributing\npower to the DDC\nequipment. It is encased\nin the back left inner side\nof the briefcase.",
+   "page": 35,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0066",
+   "text": "Keyboard\nUsed for manually\nentering information into\nthe ST4e. it is encased\non the top of the Printer\nin the front middle side of\nthe briefcase.\nPrinter\nBattery/\nCharger\nIt is encased at the\nmiddle back side of the\nbriefcase.\nST4e\nVehicle\nCharger\nUsed for connecting\npower to the ST4e from a\nmotor vehicle.\nST4e Active\nsync Y-cable\nA backup for power\nsupply to the ST4e\nPrinter-Vehic\nle Charger\nUsed to connect power to\nthe printer from a motor\nvehicle.",
+   "page": 36,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0067",
+   "text": "4.2.2. Setting up the DDC System for Voter Registration\nThe Registration Officials MUST ensure that all the above components of the\nDDC equipment are encased in the briefcase. Any missing component MUST be\nreported AS SOON AS POSSIBLE for quick action. The Registration Official\nMUST also report to his/her superiors if the DDC system cannot be initiated. Once all components have been verified, the Registration Official will set up the\nDDC equipment using the following procedures: Step 1 Carefully remove all the components from their respective encasing\nin the briefcase and place them on the table. Step 2 Place the Battery Pack/USB Hub in position where connectivity to it\nis accessible. Where applicable, connect the Pack/USB Hub to a\npower outlet to allow continuous flow of power to the DDC\nequipment. Step 3 Connect the cable attached to the Battery Pack/USB Hub to the\nST4e.",
+   "page": 37,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0068",
+   "text": "to a\npower outlet to allow continuous flow of power to the DDC\nequipment. Step 3 Connect the cable attached to the Battery Pack/USB Hub to the\nST4e. Step 4 Mount the webcam on the top edge of the open briefcase and\nconnect the webcam cable on the back left side of the Battery\nPack/USB Hub. Step 5 Connect the keyboard cable on the back middle side of the Battery\nPack/USB Hub. Step 6 Connect the printer's cable on the back right side of the Battery\nPack/USB Hub. The following illustrates how the DDC equipment should be assembled:",
+   "page": 37,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0069",
+   "text": "[ILLUSTRATION/ IMAGE]\nStep 7 Press the ON button on the ST4e to activate it.\nStep 8 Press the ON button on the Printer to establish connection to the\nST4e.\nThe DDC equipment is now ready for use and the assembled setup should\nresemble as follows",
+   "page": 38,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0070",
+   "text": "4.2.3 Initiating the DDC System for Voter Registration\nOnce the DDC equipment is initiated, the following Start Up window will be\ndisplayed on the DDC device screen.\nStep 1 Tap ONCE on the INEC logo on the screen.\nThe following window will be displayed on the DDC device screen.",
+   "page": 39,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0071",
+   "text": "Step 2 Using the Stylus Pen, Tap on the Year field and using the Stylus\nPen Tap on the Up/Down Scroll Button to select the appropriate\nyear. Or using the Stylus pen Tap on the screen to move backward\nand forward and Select the correct year. Step 3 To choose the correct Month, Tap on the Left Scroll Button to select\nthe appropriate month. Step 4 To choose the correct day, Tap on the appropriate number to select\nthe correct day. Step 5 To choose the correct time, Tap on the Hour field and using the\nkeyboard, Type in the appropriate number. Repeat the same\nprocedure for Minutes and Seconds. Step 6 Tap the Apply Button followed by the OK Button. The following window will be displayed on the DDC device screen. This window\nprompts the user to provide username and password for authentication, and to\nbegin operating the DDC system for voter registration. Step 7 To enter the username, use the Stylus Pen to Tap on the User\nName field and use the keyword, to Type in the username.",
+   "page": 40,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0072",
+   "text": "for voter registration. Step 7 To enter the username, use the Stylus Pen to Tap on the User\nName field and use the keyword, to Type in the username. Step 8 To enter the password, use the Stylus Pen to Tap on the password\nfield and use the keyboard to Type in the password (minimum of\nsix characters).",
+   "page": 40,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0073",
+   "text": "The window will resemble the following:\nNote: The password will appear as stars.\nStep 9 Tap on the Login Button.\nNote: if the wrong Username and/or Password has been keyed in, the\nsystem will display an error on the screen. The screen will\nprompt you to type the correct Username and Password again,\nrepeat Steps 7-9\n4.2.4 Completing the Delimitation Selection Fields\nOnce the User has been successfully logged into the operative system, the\nfollowing window will be displayed on the DDC device screen.",
+   "page": 41,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0074",
+   "text": "The window allows the user to enter the delimitation fields for the particular\nregistration centre. Selection for each field appearing on the window above is\ndone using the following procedures: Step 1 For the entry field State, Tap on Down Arrow Button on the right\nside of the field. A list of 36 states and the FCT will appear. Tap on\nthe correct State name and move to the next entry. Step 2 For the entry field LGA (Local Government Area), Tap on the\nDown Arrow Button on the right side of the field. A list of the names\nof the LGA in the particular state will appear. Tap on the correct LGA\nname and move to the next entry. Step 3 For the entry field RA (Registration Area), Tap on the Down Arrow\nButton on the right side of the field. A list of the names of the\nRegistration Areas in the particular LGA will appear. Tap on the\ncorrect RA name and move to the next entry. Step 4 For the entry field PU (Polling Unit), Tap on the Down Arrow Button\non the right side of the field.",
+   "page": 42,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0075",
+   "text": "RA name and move to the next entry. Step 4 For the entry field PU (Polling Unit), Tap on the Down Arrow Button\non the right side of the field. A list of the names of the polling units in\nthe particular RA will appear. Tap on the correct PU name.",
+   "page": 42,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0076",
+   "text": "Note: It is very important for the Registration Official to confirm the entries\nfirst before accepting the information selected. If the Registration Official\nrealizes he/she has made a mistake, Tapping the Return Button will take\nhim/her back to the beginning of screen to make corrections on the fields.\nStep 5 If all the entries are correct, Tap on OK Button to accept the\ninformation entered.\n4.2.5 Initiating the DDC System Main Menu\nAfter Tapping the OK Button, the window showing the five main modules of the\nDDC operative system for voter registration will be displayed as follows:\nOther registration sub-components and functions of the DDC system for\nregistration include the following:\nPhoto Used to capture and record a facial image of the registrant.\nBiometric Used to capture and record a registrant's thumbprint image.\nEnrol Once all data fields pertaining to the registrant have been filled,\ntapping on Enrol Button will confirm the registrant's enrolment\nstatus.",
+   "page": 43,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0077",
+   "text": "Clear Used to rest entry fields.\nPrint This feature will only be enabled when the voter's data has been\nenrolled into the system.\nReturn Returns to system main menu.\nStep 1 Using the Stylus Pen Tap on the Logoff Button to exit the window\nand return to the Main Menu Window.\n4.2.6 Entering Voters' Information and Details\n4.2.6.1 Enrolment Process\nThis is the first step for registration and prerequisite field for other modules.\nStep 1 Using the Stylus Pen Tap on enrolment button on the Main Menu\nscreen;\nThe following window will be displayed on the DDC device screen. The window\nallows the registration official to begin to enroll the registrant's details into the\nDDC device.\nNote: The VIN will automatically appear.",
+   "page": 44,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0078",
+   "text": "After the registration official has ascertained the eligibility of the registrant he /\nshe should. Step 2 Ask the registrant for his/her first name; using the Stylus Pen Tap\non the name field, and using the keyboard Type the name of the\nregistrant. Step 3 Ask the registrant for his/her initials [or other names] and using the\nStylus Pen Tap on the initial field and using the keyboard Type the\nregistrant initial (this field is optional). Step 4 Ask the registrant for his/her surname, and using the Stylus Pen Tap\non Name field, using the keyboard Type the registrants surname. Step 5 Ask the registrant for his/her date of birth, and using the Stylus Pen\nTap on the DOB field, and using the keyboard and Type registrant's\ndate of birth beginning with day, followed by the month of the year. Alternatively, using the Stylus Pen, Tap on the Download Arrow\nButton on the right side of the DOB box to display the calendar. Select the registrant's date of birth by Tapping on the correct date. Note:",
+   "page": 45,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0079",
+   "text": "Arrow\nButton on the right side of the DOB box to display the calendar. Select the registrant's date of birth by Tapping on the correct date. Note: For a registrant who is not sure of his/her date of birth but knows\nhow old he/she is, Tap on the Age field, and using the keyboard, manually\nType the age. (The year part of the DOB will automatically calculated, while\nthe day and month under the DOB will adopt the current day month values. Step 6 Using the Stylus Pen Tap on the gender field, and using the\nkeyboard Type the gender (sex – either Male or Female) of the\nregistrant. Alternatively, Tap on the download Arrow Button on the\nright side of the gender field to display the gender options – Male or\nfemale. Tap on the correct gender. Step 7 using the Stylus Pen Tap on the RegType field, and using the\nkeyboard, Type either New (for new applicants), Transfer (for\napplicants wishing to transfer elsewhere) or Change (for applicants\nwishing to make changes to their registration details).",
+   "page": 45,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0080",
+   "text": "Transfer (for\napplicants wishing to transfer elsewhere) or Change (for applicants\nwishing to make changes to their registration details). Alternatively,\nTap on Downward Arrow Button on the right side of the RegType\nfield to display the RegType Options – New, Transfer, Change. Using the Stylus Pen Tap the correct RegType. Step 8 Ask the registrant for his/her occupation using the Stylus Pen Tap\non the OCP field, and using the keyboard Type the occupation of\nthe registrant. Alternatively, Tap on the Download Arrow Button on",
+   "page": 45,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0081",
+   "text": "the right side of the OCP field to display the OCP Options. Using the\nStylus Pen, Tap the registrant's correct occupation.\nStep 9 Ask the registrants for his/her National Identification number/card\nand using the Stylus Pen Tap on the National OD No. field, and\nusing the keyboard Type the National ID No. (This field is\noptional).\nStep 10 Ask the registrant for his/her physical or postal address using the\nStylus Pen Tap the address of the registrant. (This field allows of\nmaximum of 43 characters).\nOnce all fields have been completed, the screen should appear similar to the\nfollowing:\n4.2.6.2 Taking the Registrant's Passport-Size Photograph\nStep 1 Tap on the photo button showing on the DDC device screen.",
+   "page": 46,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0082",
+   "text": "The following window will be displayed.\nStep 2 Ask the registrant to face the Webcam. Adjust the Webcam\naccordingly to get the facial image of the registrant on the DDC device screen.\nNote: The registrant's facial image should appear on the DDC device\nscreen.\nStep 3 Using the Stylus Pen Tap on the Take Photo button on the screen to\nactivate the Webcam and to take the registrant's passport photograph.",
+   "page": 47,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0083",
+   "text": "Note: If the image is not clear, use the Stylus Pen Tap on the Retake Photo\nButton to take the registrant's photograph again.\nStep 4 When a clear image of the registrant appears on the screen Tap the\nOK Button.\nThe Main Menu window will be displayed on the DDC device screen.\n4.2.6.3 Capturing the Registrant's Thumbprints (Biometrics)\nStep 1 On the Main Menu window, Tap the Biometrics Button.\nThe following window will be displayed on the DDC device screen.\nWhen the system is ready it will prompt the user to take action. Follow the\ninstructions appearing on the DDC screen.",
+   "page": 48,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0084",
+   "text": "Step 2 Using the Stylus Pen Tap on the Enrol Left Button.\nThe following instruction will appear on the DDC device screen.\nStep 3 Ask the registrant to place his/her left thumb on the screen.\nStep 4 Using the Stylus Pen Tap on the Enrol Left Button on the screen\nprompt the DDC system to capture the thumbprint of the registrant.\nThe following instructions will appear on the DDC screen.",
+   "page": 49,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0085",
+   "text": "Step 5 when the prompt to remove thumb appears, ask the registrant to\nremove his/her thumb from the screen of the device.\nThe following screen will be displayed if the fingerprint has been successfully\ncaptured.\nWait for the system to ask for the registrant's right thumb.\nStep 6 When the system asks for the right thumb, ask the registrant to\nplace his/her right thumb on the screen.\nStep 7 Tap on the Enroll Right Button on the screen to capture the right\nthumbprint of the registrant.\nStep 8 Ask the registrant to remove his/her thumb from the screen when\nthe system prompts to do so.\nIt the fingerprinting has been successfully captured, the following screen will be\ndisplayed.",
+   "page": 50,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0086",
+   "text": "Step 9 After both the left and right thumbprints have been captured using\nthe Stylus Pen Tap the Return to the Main Menu window.\nStep 10 To save all, Tap the Enrol Button and Tap the OK Button.\nThe following will be displayed DDC device screen to show that the enrolment\nhas been successful.\n4.2.7 Issuance of the Temporary Voter's Card (TVC)\n4.2.7.1 Printing the TVC\nThe last part of the voter registration procedure is to print out the temporary\nvoter's card.",
+   "page": 51,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0087",
+   "text": "Step 1 Tap on the Print Button in the Main Menu window and follow the\ninstruction thereinafter.\nThe following screen will be displayed stating that printing is in progress and the\nsystem is connecting itself to the printer.\nThe printed voter's card will resemble the illustration below:\nThe voter's card will consist of the following information, the voter's:\n• passport sized photograph;\n• identification number (VIN);\n• names, sex, age or date of birth;\n• delimitation details (State, LGA, RA, PU);\n• a barcode (which when the card is folded should appear on the backside of\nthe voter's card).\nNote: To cancel printing at any time, or for any reason, the Stylus Pen to\nTap the Cancel Button",
+   "page": 52,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0088",
+   "text": "4.2.8 Laminating the Temporary Voter's Card\nStep 1 Remove the printed card from the printer and fold the card in the\nmiddle.\nNote: Make sure that the barcode appears at the backside of the card and\nthe voter's photograph and other details should be in front when folded.\nTo laminate the printed card, the registration official should:\nStep 2 Peel the translucent part of the transparent pouch for the voter's\ncard.\nStep 3 Place the folded card onto the opened pouch. Remove the white\npaper from the translucent pouch.\nStep 4 Seal the card by pressing the translucent cover over the card to\nlaminate the voter's card.\nStep 5 Issue the voter with his/her temporary voter's card and direct\nhim/her to AROII.",
+   "page": 53,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0089",
+   "text": "4.2.9 Management, Report and Voter Search\n4.2.9.1 Management\nThe management module consists of the following components and functions:\nStorage Management For organizing the storage if information of voters after\nregistration.\nPower Management For viewing the sets alerts that will inform the user on\nthe remaining level of power left to power up the ST4e.\nData Backup for creating a backup copy of the information in the\nevent of loss of power or damage to the unit.\n4.2.9.2 Report\nHas similar functions to thee printing of the voter registration card and enables\nthe Registration Officials to print registration information for reporting purposes.\n4.2.9.3 Voter Search\nThis enables the Registration Official to retrieve information concerning a voter\nfrom the data storage in the ST4e by searching using VIN or Surname of the v.\nNote: The daily data backup for the registration venue should be done at\nthe end of each day.",
+   "page": 54,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0090",
+   "text": "4.3 BE.UNIK DDC System for Voter Registration\n4.3.1 Features and Components of the BE.UNIK DDC System\n4.3.1.1 Illustrative Features and Components of the BE.UNIK DDC System\n[IMAGE OF DDC EQUIPMENT]\n4.3.1.2 Description of Features and Components of the BE.UNIK DDC\nSystem\nComponent Use\nBriefcase The casing used to store and carry the DDC equipment\nBatteries and\nChargers\nThe equipment used for charging the DDC device. They\nencased in the back right hand side of the briefcase.\nCamera The device used for taking passport photographs. It is\nencased in the middle right side of the briefcase.",
+   "page": 55,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0091",
+   "text": "Data Unit Used for entering and storing data. It is encased in central\nforefront of the briefcase.\nFlexible\nKeyboard\nUsed for manually keying in data into the DDC device. It is\nencased on the front right side of the briefcase.\nPrinter Used for printing voters' card and reports related to voters. It\nis encased in the front left side of the briefcase.\nPlastic Pouches Used for laminating the TVCs. They are encased in the\nmiddle left side of the briefcase.\nPrinter Paper\nRoller\nUsed for printing the TVCs, PRV and other reports relating\nto the registration. It is encased in the back left side of the\nbriefcase.\nThe key component of the DDC system is the Data Unit. It is the device used to\ncapture the details of registrants at the registration centre.\n[IMAGE OF DATA UNIT]\n4.3.2 Concepts of BE.UNIK DDC System for Voter Registration\n4.3.2.1 The Identity Profile",
+   "page": 56,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0092",
+   "text": "The identity profile of a registered voter using the DDC system is composed of\nthe following information: Voter's Personal Details\n• First Name\n• Middle Name\n• Surname\n• Gender\n• Date of Birth\n• Occupation Code\n• Picture of the person's face\n• Fingerprint\nDelimitation Selenction\n• State logical number\n• LGA logical number\n• RA logical number\n• PU logical number\nNote: This information is saved into an \"identity profile\" which can be\nstored in the database and in a 2D barcode on a voter card slip. A barcode\nstores a single profile, while a database stores many profiles, which can be\naccessed remotely through a wireless network connection or stored on the\nunit itself. 4.3.3 Initiating the Voter Registration application\nAll the tasks are performed with the help of the DDC unit screen. The DDC unit\nscreen displays: • buttons the Registration Official should Tap on the Stylus Pen that\naccompanies the DDC unit; • instructions to guide the Registration Officials to operate the DDC unit;",
+   "page": 57,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0093",
+   "text": "Official should Tap on the Stylus Pen that\naccompanies the DDC unit; • instructions to guide the Registration Officials to operate the DDC unit; • results of the requests. Note: Tapping once on a button using the Stylus Pen triggers the\napplication related to that menu. Once the DDC unit is switched on, the Main Menu window appears on the DDC\ndevice. To begin initiating the application, the Registration Official should: Step 1 Using the Stylus Pen, Tap the Windows Logo Button on the screen. Step 2 Tap on Programmes (see arrow on the left). This will open a Sub-Menu that lists the applications installed on the DDC unit\n(see arrow on the right).",
+   "page": 57,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0094",
+   "text": "Step 3 Using the Stylus Pen, Tap on the INEC Voter Registration\ntransaction (see arrow on the right) to start the application on the DDC unit. Once the application is running, the following window will be displayed on the\nDDC unit screen. This window allows for the selection of State, LGA, RA and Polling Unit from a\npre-populated delimitation structure. Information entered or selected in this\nwindow will be used for all voters registered at the registration venue. Note: The Registration Official can go back to this window via the Main\nMenu window and using the Stylus Pen, Tap on the PU Selection Button. Step 4 Using the Stylus Pen, Tap the OK Button to display the Main Menu\nwindow. The Main Menu is composed of Buttons that start key tasks. These are: • Registration Starts the process of getting a registrant's identity data,\nfingerprints and picture, to record it in the BE.U Mobile\nUnit and on a voter card.",
+   "page": 59,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0095",
+   "text": "Starts the process of getting a registrant's identity data,\nfingerprints and picture, to record it in the BE.U Mobile\nUnit and on a voter card. • Authentication\n• Reads the 2D barcode on the voter's card\n• Shows identity information; • Scans his/her thumbprints; • Starts voter verification. • PU Selection Delimitation/PU Selection allows for selection of voter\nlocality and polling unit. • Voter Registration Allows the display and edition of voter identity profiles\npresent on the DDC unit. • Exit Leaves the application.",
+   "page": 59,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0096",
+   "text": "4.3.4 Voter Registration Procedures\n4.3.4.1 Entering the Registrant's Details\nRegistering a voter creates an identity profile that describes the voter's identity\nused to create the voter's card and to verify his/her identity at the polling station\nduring elections.\nStep 1: Using the Stylus Pen, Tap on the Registration Button from the Main\nMenu Window.\nThe following windows will appear on the DDC unit screen.",
+   "page": 60,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0097",
+   "text": "Note: The screen displays consecutively two windows that are used to\nenter the registrant's details. Step 2 Ask the registrant for his/her First Name and, Tap on the First Name\nfield, then using the keyboard, Type the registrant's name. Step 3 Ask the registrant for his/her initials or other names and, Tap on the\ninitials field, then using the keyboard, Type the registrant's initials. (This field is not compulsory). Step 4 Ask the registrant for his/her surname and, Tap on the Last name\nfield, then using the keyboard, Type the registrant's last name. Step 5 Tap on the VIN field. The VIN will be automatically generated. Step 6 Ask the registrant for his/her Date of Birth and, Tap on the birthday,\nthen using the keyboard, Type the Date of Birth, beginning with the\nday, month and year. Alternatively, Tap on the Download Arrow\nButton on the right side of the BirthDay field to display the calendar. Select the registrant's Date of Birth by Tapping on the correct date. Note:",
+   "page": 61,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0098",
+   "text": "on the right side of the BirthDay field to display the calendar. Select the registrant's Date of Birth by Tapping on the correct date. Note: if the registrant does not know his/her exact date of birth, skip the\nBirthDay field and Type the approximate age of the registrant on the Age\nfield. Step 7 Tap on the Gender field and enter the gender of the registrant in the\nGender field. Alternatively, Tap on the Download Arrow Button on\nthe right side of the Gender box to display the Gender Options –\nMale or Female. Select the registrant's gender (sex) by Tapping on\nthe correct gender. Step 8 Ask the registrant for his/her occupation, Tap on the Occupation\nfield, then Tap on the Downward Arrow button on the right side of\nthe Occupation box to display the Occupation Options. Select the\nregistrant's occupation by Tapping on the correct code. Step 9 Ask the registrant for his/her National Identification Number and,\nTap on the National ID field, then using the keyboard, Type in the\nNational ID No.",
+   "page": 61,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0099",
+   "text": "Ask the registrant for his/her National Identification Number and,\nTap on the National ID field, then using the keyboard, Type in the\nNational ID No. (This is optional).",
+   "page": 61,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0100",
+   "text": "Step 10 Tap once on the Address button\nThis will take you to the Address field on the second screen on the right side. Note: if the Registration Official Taps the Cancel Button, information\nentered on the first (left) window will be deleted and the DDC unit will return\nto the Main Menu Window. Step 11 Using the keyboard, Type the address of the registrant in the\nAddress field. Step 12 Tap on the City field, and using the keyboard, Type the name of the\nCity. Step 13 Tap on the Registration field, and using the keyboard Type either\nNew (for applicants registering for the first time), Transfer (for\napplicants wishing to transfer from the registration centre) or change\n(for applicants wishing to make changes to their registration details). Alternatively, Tap on the Downward arrow Button on the right side of\nthe Registration field to display the Registration Options Menu –\nNew, transfer, Change. Using the Stylus pen, Tap to select the\ncorrect Registration type. Note:",
+   "page": 62,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0101",
+   "text": "field to display the Registration Options Menu –\nNew, transfer, Change. Using the Stylus pen, Tap to select the\ncorrect Registration type. Note: If the Registration Official Taps the Cancel Button, information\nentered on both windows will be deleted and the DDC unit will return to the\nMain menu Window. 4.3.3.2 Taking the Registrant's Photograph\nStep 1 Tap on Photo button to start the Photo capture process. Step 2 Aim the camera towards the registrant and make certain that his/her\nface is displayed inside the four white squares on the display screen\n(see arrows) of the DDC unit. Also make sure the registrant is not\ntoo far or too near.",
+   "page": 62,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0102",
+   "text": "Step 3 Press the F10 Function Key on the keyboard to take the picture.\nNote: If the picture is not clear or does not appear on the DDC unit screen,\npress the F9 function key to take the picture again.\nStep 4 Tap on the Bio Data Button.\nThis will take you to the thumbprints Capture Window, which will allow the\nRegistration Official to take the registrant's thumbprint.\n4.3.3.3 Taking the Registrant's Thumbprints\nStep 1 Follow the instructions displayed on the screen to scan the\nregistrant's right thumbprint.\nNote: the registrant MUST put his/her thumb on the fingerprint sensor\ndisplayed on the DDC unit screen.\nOnce a good thumbprint is acquired, the Print Card Button will be enabled.\n4.3.4 Printing the Temporary Voter's Card\nStep 1 Tap on the Print Card Button displayed on the DDC unit screen.\nThe following window will be displayed.",
+   "page": 63,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0103",
+   "text": "The printed Voter's Card will resemble the illustration below.\n4.3.6 Laminating the Temporary Voter's Card\nStep 1 Remove the printed card from the printer and fold the card in the\nmiddle.\nNote: Make sure that the barcode appears at the backside of the card and\nvoter's photograph and other details should be in front when folded.\nTo laminate the printed card, the registration officer should:\nStep 2 Peel the translucent part of the transparent pouch of the voter's\ncard.\nStep 3 Place the folded card unto the opened pouch. Remove the white\nfrom the translucent pouch.",
+   "page": 64,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0104",
+   "text": "Step 4 Seal the card by pressing the translucent cover over the card to\nlaminate the voter's card.\nStep 5 Issue the voter with his/her temporary voter's card and direct\nhim/her to ARO II.\n4.3.7 Printing the PRV\n4.4 IDL DDC SYSTEM FOR VOTER REGISTRATION\n4.4.1 Getting Started\nWhen the DDC equipment is switched on, it will automatically request the\nRegistration Official to log in to enable him/her gain access to the operative\nsystem. To access the operative system, the Registration Official should:\nStep 1 Scan his/her right thumbprint on the thumbprint screen of the DDC\ndevice.\nThis prompts the Registration Official's ID number to be retrieved and for him/her\nto access the operative system. If the Registration Official is identified by the",
+   "page": 65,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0105",
+   "text": "system, the following window will be displayed on the DDC device screen. The\nwindow allows the Registration Official to set the current date on the DDC device.\nStep 2 Using the Stylus Pen, Set the current date on the DDC device.\nAlternatively Tap on the Up/Down Arrow Button next to the Year to\nselect the current year.\nStep 3 Tap on the Up/Down Arrow Button next to the Month to select the\ncurrent month.\nStep 4 Tap on thee appropriate number to select the current day of the\nmonth.",
+   "page": 66,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0106",
+   "text": "Step 5 Tap on the Up/Down Arrows to select the current time.\nStep 6 Tap on the Apply Button to accept the date and time on the DDC\ndevice.\n4.4.2 Initiating the DDC Device\nNote: The Device Initialization transaction can only be performed by an\nADMINISTRATOR who will be the EO. This transaction will allow the EO to\nset the initialization parameters for the device.\nTo initialize the DDC operative system, the EO should:\nStep 1 Tap on the Function Button.\nA list of options will be dropped down as shown below.",
+   "page": 67,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0107",
+   "text": "Step 2 Tap once on the Initialization function.\nThe following window will be displayed on the DDC device screen.\nStep 3 Using the keyboard Type the appropriate information in each of the\nfields displayed on the DDC device.\nStep 4 Tap on the OK Button on the screen.\nIf the initialization is successful, the following window will be displayed and device\ninitialization will now be set, and the Registration Official can start entering voter's\ndetails into .the DDC device",
+   "page": 68,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0108",
+   "text": "Step 5 Tap on the User Administration\nThe window with the following fields: State, LGA, RA, PU will be displayed on the\nDDC device screen.\n4.4.3 Setting the Delimitation Selection\nThe Registration Official should:\nStep 6 Tap on each field and, using the keyboard, Type the appropriate\ninformation. That is, the name of the State, LGA, RA, PU. (The\ninformation will be preloaded on the handheld DDC device).\nStep 7 Confirm the information entered by Tapping on the Enter Button.\nThe DDC will display the About Window.\n4.4.4 Entering Registrant's Details\nTo begin entering information for each registrant, the Registration Official shall do\nthe following:\nStep 1 Tap on the Function Button.\nThe following window will be displayed on the DDC device screen.",
+   "page": 69,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0109",
+   "text": "Step 2 Tap on Voter Registration Transaction\nThe following window will be displayed on the DDC device screen.\nStep 3 Using the Stylus Pen, Tap on Start Button to start activating the\nvoter registration transaction\nThe following window will be displayed. The window allows the Registration\nOfficial to take the thumbprint insignia of the registrant.\n4.4.4.1 Capturing the Registrant's Thumbprints\nStep 4 Ask the registrant to place his/her left thumb (indicated by the\nblack arrow) on the finger reader.\nA green tick will appear when the insignia of the thumb is successfully captured.",
+   "page": 70,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0110",
+   "text": "Step 5 Ask the registrant to place his/her right thumb (indicated by the\nblack arrow) on the finger reader.\nAgain, a green tick will appear when the insignia of the thumb is successfully\ncaptured. After both fingerprints have been successfully captured, the following\nwindow will be displayed, and two green lights appear above the thumbprints,\nand the OK Button will be activated.\nStep 6 Tap on the OK Button ton store the thumbprints.\nThe photo window will appear on the screen of the DDC device.\n4.4.4.2 Taking the Registrant's Photograph",
+   "page": 71,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0111",
+   "text": "Step 1 Tap on the Snap Shot Button to take the passport size photo of\nregistrant.\nNote: The camera will focus automatically and the photograph will be taken\nwhen the Snap Shot Button is selected.\nOnce the photograph has been taken, the Snap Shot Button will change to a\nRedo Button. The Redo Button allows the Registration Official to repeat the\nphotograph session if the photograph is not clear. To retake the photograph, Tap\non the Redo Button.\nStep 2 When the photograph appears clear on the screen, Tap on the OK\nButton.\nThe following window will be displayed on the DDC device screen. This window\nallows the Registration Official to enter the registrant's details.\nNote: The VIN number is automatically selected by the DDC operative\nsystem.",
+   "page": 72,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0112",
+   "text": "4.4.4.3 Entering Registrant's Details\nThe above screen allows the Registration Official to enter the registrant's details\ninto the DDC device. Step 1 Ask the registrant for his/her first name, and Tap on the First Name\nfield, then using the keyboard, Type in the first name. Step 2 Ask the registrant for his/her (if any), Tap on the initial field, then\nusing the keyboard, Type in the initials. Step 3 Ask the registrant for his/her age, Tap on the Age field, then using\nthe keyboard, Type in the age. Step 4 Ask the registrant's surname, and Tap on the Surname field, then\nusing the keyboard, Type in the surname. Step 5 Tap on the Gender field and then on the Drop-down button next to\nthe field to display the Male and Female options, Tap on the\nappropriate gender of the registrant. Step 6 Tap on the Date of Birth field, then using the keyboard, Type the\ndate (dd), month (mm) and (yyyy).",
+   "page": 73,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0113",
+   "text": "the\nappropriate gender of the registrant. Step 6 Tap on the Date of Birth field, then using the keyboard, Type the\ndate (dd), month (mm) and (yyyy). Step 7 Ask the registrant for his/her occupation, and Tap on the Occupation\nCode field, then Tap on the Drop-down Button next to the field to\ndisplay the options. Tap on the appropriate code. Step 8 Ask the registrant for his/her National ID number (this is optional),\nand Tap on the National ID field, then using the keyboard to Type in\nthe registrant's ID number. Step 9 Ask the registrant for his/her physical address, and Tap on the\nAddress field, then using the keyboard, Type in the address. Step 10 Tap on the RegType field and then on the Drop-down Button next to\nthe field to display the options. Tap on the appropriate selection for\ntype of registration N(ew), T(ransfer) or C(hange). Step 11 Ascertain with the registrant that the information entered is correct\nbefore Tapping on the ON Button to accept the information.",
+   "page": 73,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0114",
+   "text": "or C(hange). Step 11 Ascertain with the registrant that the information entered is correct\nbefore Tapping on the ON Button to accept the information. The following window will be displayed on the DDC device screen.",
+   "page": 73,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0115",
+   "text": "Tapping on the Start Button allows the Registration Official to register the next\nregistrant.\n4.4.5 Printing the Temporary Voter's Card\nThe temporary voter's card will now be printed. After the card has been printed,\nwait for a few minutes to allow the system write the voter's details in the\ndatabase.\nStep 1 Cut the A4 paper (which consists of 2 x voter's card) in two\nStep 2 Place the paper card into the printer feeder as indicated below.",
+   "page": 74,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0116",
+   "text": "Printing will be done on the back of the card\n4.4.6 Laminating the Temporary Voter's Card\nStep 1 Remove the printed card from the printer and fold the card in the\nmiddle. Note: Make sure that the barcode appears at the backside of the card and\nthe voter's photograph and other details should be in front\nwhen folded. Step 2 Peel the translucent part of the transparent pouch for the voter's\ncard. Step 3 Place the folded card onto the opened pouch. Remove the white\npaper from the translucent pouch. Step 4 Seal the card by pressing the translucent cover over the card to\nlaminate the voter's card. Step 5 Issue the voter with his/her temporary voter's card and direct\nhim/her to ARO II. 4.5 General Procedures\n4.5.1 Printing the Preliminary Register of Voters\nNote: The printing of the PRV should be done at the end of the registration\nexercise for the particular registration venue. Step 1 Make sure that the printer has A4 paper in the printer feed.",
+   "page": 75,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0117",
+   "text": "at the end of the registration\nexercise for the particular registration venue. Step 1 Make sure that the printer has A4 paper in the printer feed. Step 2 In the About Screen, Tap on Function and Drop-down options will\nappear as shown below.",
+   "page": 75,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0118",
+   "text": "Step 3 Click Print Voter's Roll transaction and the following window will\nappear.",
+   "page": 76,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0119",
+   "text": "4.5.2 Daily Backup of Data Collected\n4.5.3 Replacing the Print Cartridge\nAfter removing a print cartridge from it's package, replace a new one right away\nusing the following steps:\nStep 1 Remove the new print cartridge from it's package and then pull the\ncoloured tab to remove the protective film from the cartridge.\nStep 2 With the printer turned on, open the front access cover. Wait for the\ncartridge to stop moving.\nStep 3 Lift the print cartridge latch open and gently remove the print\ncartridge from it's cradle compartment.",
+   "page": 77,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0120",
+   "text": "Step 4 Insert the new print cartridge into its cradle compartment at the\nsame angle at which you removed the old print cartridge. Check the\nnumber on the latch against the number on the print cartridge to\nmake sure you are inserting the correct print cartridge. Step 5 Close the print cartridge latch. If the cartridge is inserted correctly,\nclosing the latch gently pushes the cartridge into its cradle\ncompartment. Press the latch to make sure it is seated flat on the\ncartridge. Step 6 Close the front access cover. Step 7 Wait for the carriage to complete the print cartridge initialization\nroutine and return to the Home position at the left side of the printer\nbefore using the printer. Note: Do not open the front access cover until the print cartridge\ninitialization is complete. 4.5.4 Cleaning Cartridges Manually\nPoor contact between the print cartridge and the print cartridge cradles can affect\nthe quality of the printout.",
+   "page": 78,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0121",
+   "text": "4.5.4 Cleaning Cartridges Manually\nPoor contact between the print cartridge and the print cartridge cradles can affect\nthe quality of the printout. When this occurs, try cleaning the electrical contacts\non the print cartridges and print cartridge cradles, using the following steps. Step 1 Remove the print cartridge from the printer. (Follow the procedure\nfor replacing the print cartridges).",
+   "page": 78,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0122",
+   "text": "Step 2 Clean the electrical contacts on the print cartridge cradle with a dry\ncotton swab.\nStep 3 Carefully clean the electrical contacts on the print cartridge with a\nsoft, dry, lint-free cloth.\nStep 4 Reinstall the print cartridges.",
+   "page": 79,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0123",
+   "text": "4.6 The Actual Registration Procedures\n4.6.1 Stage One of the Registration Procedures\nUpon arrival of the applicant at the registration centre, the EO or the ARO I shall: Step 1 Welcome the applicant and enquire about his/her citizenship status\nand eligibility to register as a voter. Note: If the EO/ARO is in doubt about the eligibility requirements of the\nregistrant, the ARO shall demand to see any evidence in support of the\nregistrant's eligibility, such as birth or baptismal certificate, national\npassport or identity card, driver's license, or any other document that will\nprove the identity, age and nationality of the registrant. If the registrant\ndoes not produce or show any such evidence, the EO/ARO may use\nhis/her discretion to either register him/her or not. When the EO/ARO is satisfied that the applicant meets the eligibility requirement\nto register as a voter, he/she shall: Step 3 Record the names, gender, occupation and address of the registrant\nin the DDC device.",
+   "page": 80,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0124",
+   "text": "requirement\nto register as a voter, he/she shall: Step 3 Record the names, gender, occupation and address of the registrant\nin the DDC device. Step 4 Take and record passport size photograph of the registrant in the\nDDC device. Step 5 Take and record the left thumbprint first followed by the right\nthumbprint of the registrant in the DDC device (DO NOT CAPTURE\nANY OTHER FINGERPRINTS THAN THE THUMBPRINTS). Step 6 Print out the TVC for the registrant. Step 7 Laminate the TVC\nStep 8 Issue the registrant with the voter's card and direct him/her to ARO\nII. At the end of each day of registration, the EO or ARO will make a daily backup of\nthe data recorded at the centre in the prescribed manner. At the end of the\nregistration period for that particular registration centre, the EO/ARO will print out\nthe PRV for display public scrutiny. 4.6.2 Stage Two of the Registration Procedure (Filling in Form EC.1A)",
+   "page": 80,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0125",
+   "text": "As a backup, the names and other details of all registrants will be recorded\nmanually. Once the names and other details of the registrants has been captured\nin the DDC device and the registrant have been issued with the temporary voter's\ncard, he/she will be directed to the ARO II, who shall enter his/her details\nmanually using Form EC.1A. In this respect, the ARO II shall: Step 9 Enter the name and code of the Registration Area, Registration\nCentre/Unit, Local Government Area and State where the\nregistration is taking place. Step 10 Enter the names and other details of the registrant. Step 11 Apply indelible ink on the registrant's right thumb and ask the\nregistrant to mark his/her right thumbprint on the appropriate section\nof form Form EC.1A. Step 12 Request the voter to leave the registration centre.",
+   "page": 81,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0126",
+   "text": "to mark his/her right thumbprint on the appropriate section\nof form Form EC.1A. Step 12 Request the voter to leave the registration centre. 4.6.3 Exception to Regular Registration Procedure\n4.6.3.1 Persons with Disabilities\nWith regard to registrants with disabilities or registrants who cannot read or write,\nthe EO/ARO may assist the prospective registrants to complete the registration\nprocedures on request.",
+   "page": 81,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0127",
+   "text": "MODULE 5: DISPLAY OF THE PRELIMINARY VOTERS' REGISTER\nObjectives: Once you have completed reading this module, you should be able to: • Display the PRV. • Be familiar with the materials and equipment and process for making\nclaims and objections. • Differentiate between a Claim and an Objection. 5.1 The Display of the PRV\n5.1.1 What is the Display of the PRV?\nThis is the process by which the PRVs compiled during the period of voter\nregistration are produced and exhibited for public scrutiny. After the compilation of\nthe names, photographs, thumbprints and other details of eligible voters at the\nregistration centres, the PRV will be produced and displayed for public scrutiny at\ndesignated venues. The officers responsible for the display of the PRV shall\ninclude the EOs and the AROs.",
+   "page": 82,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0128",
+   "text": "and displayed for public scrutiny at\ndesignated venues. The officers responsible for the display of the PRV shall\ninclude the EOs and the AROs. 5.1.2 Why is the Display of PRV Important?\nDuring the display of the PRV, voters will check whether they are duly registered\nto vote or need to contact the EO to request for amendments to their details as\nthey appear in the PRV. In addition, the display of the PRV allows people to make\nclaims to and objections against the inclusion or omission of names in the\nregister. The display of the PRV therefore enables the public to: • check and verify whether they are duly registered to vote; • check and verify whether their names, photograph and other details\nappear correctly in the PRV; • file any complaint in relation to any necessary correction required of a\nname or details incorrectly entered in the PRV; • file any complaint, claim or objection in relation to the names omitted or\nincluded in the PRV.",
+   "page": 82,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0129",
+   "text": "At the end of the display period, the EO effects, if any, changes and corrections\nreceived during the display and proceeds to produce a current, accurate and\ncomplete Supplementary Voters List (SVL). 5.1.3 Persons Allowed to Scrutinize the PRV\nDuring the display, members of the public shall be allowed to inspect the PRV\nfree of charge. Persons entitled to scrutinize the PRV include the following: • registered voters and other members of the public\n5.1.4 Where Will the Display of the PRV Take Place?\nThe display of the PRV will be at designated display centres at the LGA or Ward\nlevels. The display centres will use the same unique identification names and\ncodes as the corresponding registration centres. However, after the expiry period\nof the display of the PRV, members of the public may scrutinize the PRV at the\nLocal Government Area (LGA) office of INEC in which the registration centres\nthey registered as voters are located.",
+   "page": 83,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0130",
+   "text": "may scrutinize the PRV at the\nLocal Government Area (LGA) office of INEC in which the registration centres\nthey registered as voters are located. 5.1.5 The Period of the Display of the PRV\n5.1.5.1 The Display Period\nThe Display of the PRV shall take at dates to be made public by the Commission. The PRV shall be displayed for a period of not less than 5 days and not more\nthan 14 days. 5.1.5.2 Hours for the Display of the PRV\nThe PRV shall be displayed between 8:00a.m and 5:00p.m daily including\nSaturdays and Sundays as well as public holidays, throughout the stipulated\nperiod.",
+   "page": 83,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0131",
+   "text": "5.2 Preparation for Opening And Closing The Display Centre\n5.2.1 Preparations Prior to the Display Exercise\n5.2.1.1 Receiving Display Materials and Equipment\nThe EOs responsible for the display exercise MUST ensure that they have\nreceived and distributed to the display centres all the materials, equipment and\nforms for the display a day before the PRV is put up for public scrutiny. They\nMUST report any shortages or missing materials, or forms to their RECs AS\nSOON AS POSSIBLE., who must also be notified early enough to replenish\nsupply before the centre runs out of the necessary materials for its operation. Note: The EO is at all times, the sole custodian of the PRVs for his/her LGA\nalthough this responsibility could be delegated to the AROs but not to any\nother person or authority.",
+   "page": 84,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0132",
+   "text": "the sole custodian of the PRVs for his/her LGA\nalthough this responsibility could be delegated to the AROs but not to any\nother person or authority. 5.2.1.2 Checklist of Materials, Equipment and Forms for Display Exercise\n5.2.1.2.1 Material and Equipment\nMaterials Quantity\nBiro 4\nINEC Bag/Material Case 1\nPlastic Bag 1\nBatching Envelopes 2\nTables 2\nChairs 2\nGlue 1\nFile Folder 1\n5.2.1.2.2 Forms\n5.2.2 Notice of Display of the PRV\nThe EOs shall be responsible for the display exercise in their LGAs or Wards. They shall verify receipt of the above items by signing two copies of Form EC.25\nand retaining a copy. Prior to the dates announced for the display of the PRV, the\nEO shall:",
+   "page": 84,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0133",
+   "text": "Step 1 Produce the PRVs for his/her LGA or Wards. The PRVs shall include\nadditions under continuous registration such as new registrations,\ncorrections, transfers and deletions from the Register and any other\nchanges. Step 2 Place a notice stating the venues, dates and hours where and when\nthe PRVs shall be displayed for public scrutiny. Step 3 arrange for coordinate and distribution of all the resources (including\nmanpower) necessary for the display to the designated display\ncentre prior to the display period. 5.2.3 Daily Procedures During the Display\n5.2.3.1 Daily Opening Procedures\nOn the first day of the display, the Registration Officials shall arrive early enough\nbefore 8:00a.m and do the following before opening the display centre to the\npublic. Step 1 Arrange the centre to allow easy movement by the public. Step 2 Paste the display posters at convenient places at the centre. Step 3 Paste each page of one copy of the PRV on the cardboard provided\nfor that purpose.",
+   "page": 86,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0134",
+   "text": "the display posters at convenient places at the centre. Step 3 Paste each page of one copy of the PRV on the cardboard provided\nfor that purpose. Step 4 Hang the pages of the PRV on the cardboard provided for that\npurpose. Step 5 Place the second copy of the PRV in the file folder on the table. Step 6 Arrange all forms to be used so that they can be easily issued to\npersons making claims and objections. Step 7 Label the five envelopes as follows: • Envelop 1:PRV\n• Envelop 2:EC.2\n• Envelop 3:EC.3\n• Envelop 4: Notices of Claims of Omissions\n• Envelop 4: Notices of Claims of Objections",
+   "page": 86,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0135",
+   "text": "Step 8 Indicate on each envelop the name of the:\n• State\n• LGA\n• Registration Area (RA)\n• Display Centre\nStep 9: Ensure everything is in order and that the Security Agents are in their\nrespective positions.\nStep 10 Open the venue at 8:00a.m\nThe display centre should resemble the illustration below:\n[ILLUSTRATION]\nNote: The display centre should be arranged to ensure accessibility and\neasy flow of movement by the public, registered voters, accredited party\nagents and observers.",
+   "page": 87,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0136",
+   "text": "Step 11 Show Party Agents and Observerss, if any, the location reserved for\nthem. Step 12: Ensure orderliness by requesting the public to form a queue to view the\nPRV one by one. 5.2.3.2 Daily Closing Procedures\nThe Registration Official must ensure that all persons who visit the display centre\nbefore or by 5:00p.m are allowed to scrutinize the PRV, and make claims or\nobjections, if any. Persons who arrive after 5:00p.m are to be requested to return\nthe next day. After the closure of the venue at the prescribed time, the\nRegistration Official shall: Step 1 Complete the Daily Accounting Form and allow Party Agents present\nto sign the completed form. Step 2 Store all completed forms used during the day in their respective\nenvelops. Step 3 Store all unused forms in their respective envelops and secure them\nfor used the next day. Step 4 Store the PRV and other materials, and secure them for use the\nnext day.",
+   "page": 88,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0137",
+   "text": "in their respective envelops and secure them\nfor used the next day. Step 4 Store the PRV and other materials, and secure them for use the\nnext day. 5.2.3.3 Procedures to be followed on the Last Day of the Display\nAt the end of the display period and after closure of the display centre on the last\nday of the display period, the Registration Official shall: Step 1 Complete the Daily Accounting Form\nStep 2 Complete (if he/she has received filed claims) two copies of Form\nEC.2 (Notice of Claims of Omissions), listing the names of the\nclaimants who have notified him/her of the omissions of their names,\nphotographs and/or other details on the PRV. Step 3 Complete (if he/she has received filed objections) two copies of\nForm EC.3 (Notice of Objections), listing the names of the persons\nmaking\n[FOLLOWING PAGES - PAGES 78 to 81 OF ORIGINAL DOCUMENT -\nMISSING]",
+   "page": 88,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0138",
+   "text": "MODULE 6: HANDLING CLAIMS AND OBJECTIONS\nObjections: After reading this module, you should be able to: • Understand the processes and procedures for hearing and determination\nof Claims and Objections. • Be able to correct voter's detail, where necessary and upon request. 6.1 Hearing and Determination of Claims and Objections\n6.1.2 What is Hearing and Determination of Claims and Objections?\nThis is the process by which Claims and Objections filed during the display are\nheard and determined. The EO shall publish a notice stating: • When and where the hearing and determination of Claims and Objections\nshall take place. • The names and addresses of all persons who filed Claims and Objections. • The names of those persons whose inclusion to the PRV has been\nobjected to, and requesting they attend the hearing sessions.",
+   "page": 89,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0139",
+   "text": "Claims and Objections. • The names of those persons whose inclusion to the PRV has been\nobjected to, and requesting they attend the hearing sessions. 6.1.3 Who Hears and Determines Claims and Objections\nThe hearing and determination of the Claims and Objections shall be done by\nRevision/Update Officers (REVOs) appointed by INEC. 6.1.4 Persons Allowed at the Hearing and Determination of Claims\nDuring this period, members of the public shall be allowed to attend the hearing\nsessions, including accredited political party agents, observers and the media. Persons who must attend the sessions include the following: • The EO and the REVO, and his/her assistants (if any); • Persons who filed the Claims and Objections; • Persons whose inclusions to the PRV have been objected to. 6.1.5 Where will the Hearing and Determination of Claims and Objections\n[PAGE FOLLOWING THIS HEADING – PAGE 83 OF ORIGINAL DOCUMENT –\nBLANK]\n6.2.1.2 Forms",
+   "page": 89,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0140",
+   "text": "The REVO shall receive the following forms from the EO before commencement\nof the hearing and determination of Claims and Objections.\nForm Type Description of Form Use\nForm EC.25 Material Receipt Used for acknowledging receipt\nof the materials, equipment and\nforms received by the EEO.\nThis form is completed and\nsigned by EO\nForm EC.2 Claims for Corrections of\nVoter's Particulars\nForm EC.3 Objection to Inclusion of\nName\nForm EC.3A Notification of Death\nForm EC.17 Oath/Affirmation\nForm EC.21\nHearing Poster Poster\nForm EC.60E Notice for Hearing and\nDetermination of Claims\nand Objections\nUsed for notifying the public\nwhen and where hearings on\nthe PVR will take place.\nThe PRV The list containing names,\npassport-size photographs and\nother details of persons\nregistered as voters.\n6.2.2 Notice for Hearing and Determinations of Claims and Objections\nBefore commencing the hearing and determination of claims and objections, the\nREVO shall:\nStep 1 Place a notice stating the following details:",
+   "page": 90,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0141",
+   "text": "i. day, time and place where claims and objections will be heard;\nii. names of persons who made claims and objections;\niii. names of persons against whom objections have been made;\niv. request for persons mentioned in (ii) and (iii) to attend the hearing\nsessions.\n6.3 Procedures during the Hearing and Determination of Claims and\nObjections\n6.3.1 Daily Opening Procedures\nThe REVO shall arrive early enough before 8:00a.m and do the following before\nhe/she commences hearing and determination of Claims and Objections:\nStep 1 Set up the venue and hang up the hearing posters at the venue.\nStep 2 Complete the notice of hearing claims and objections and post the\nnotice at the hearing centre.\nStep 3 Arrange the lists, forms and other materials to be used on the table\nwhere he/she will be seated.\nThe hearing venue should look like the illustration below:\n6.3.2 Daily Closing Procedures\n6.3.3 Closing Procedures on the Last Day of the Hearing and Determination",
+   "page": 91,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0142",
+   "text": "6.4 Procedures for Hearing and Determination of Claims\n6.4.1 Where the Claimant is Present\nWhere the claimant is present, the REVO shall : Step 1 Ask the claimant to produce his/her TVC to ascertain if the person is\na registered voter at the registration venue where the claim was\nfiled. Step 2 Review Form EC.2 that was completed by the claimant, during the\ndisplay of the PRV, to confirm the information provided on the Form\nby the Claimant. Step 3 Make reference to the PRV from the registration venue where the\nclaim was filed. Step 4 After reviewing the information presented, either accept or reject the\nclaim, indicating briefly the reasons thereof and inform the claimant\nof his/her decision. Step 5 Note his/her decision on Form EC.2 in the Section \"For Official Use\nOnly\". If the claim is accepted by the REVO, he/she shall: Step 6 If the claim relates to incorrect information; manually correct the\nclaimant's details using Form EC.1D.",
+   "page": 92,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0143",
+   "text": "accepted by the REVO, he/she shall: Step 6 If the claim relates to incorrect information; manually correct the\nclaimant's details using Form EC.1D. If the claim relates to omission\nof the claimant's details in the PRV, manually insert the claimant's\ndetails using Form EC.1C\nStep 7 Retrieve the TVC of the voter and inform the claimant about the\ndate, time and place appointed for him/her to have his/her\nregistration details corrected and be issued with new TVC. Step 8 Write at the right hand corner of Form EC.2 the words \"Claim\nAllowed\" with his/her signature and date\n6.4.2 Where the Claimant is not present\nWhere the claimant is not present, the REVO shall: Step 1 Review Form EC.2 that was completed by the claimant, during the\ndisplay of the PRV, to confirm all the necessary information is\nprovided.",
+   "page": 92,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0144",
+   "text": "Step 2 Make reference to the PRV from the registration venue where the\nclaim was filed. Step 3 After reviewing the information presented, either accept or reject the\nclaim, indicating briefly the reasons thereof and inform the claimant\nof his/her decision. Step 4 Note his/her decision on Form EC.2 in the Section \"For Official Use\nOnly\". If the claim is accepted by the REVO, he/she shall follow Steps 6 to 8 above. Note: If the Claimant is dissatisfied by the decision of the REVO, he/she\nmay, within 7 days appeal to the REC whose decision shall be final. 6.5 Procedures for Hearing and Determination of Objections\n6.5.1 Where both the Objector and the Person being objected are Present\nWhere both person making the objection and the person being objected are\npresent, the REVO shall: Step 1 Review Form EC.3 that was completed by the person objecting the\ninclusion of another in the PRV, during the display of the PRV, to\nconfirm all the necessary information is provided.",
+   "page": 93,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0145",
+   "text": "by the person objecting the\ninclusion of another in the PRV, during the display of the PRV, to\nconfirm all the necessary information is provided. Step 2 Make reference to the PRV from the registration venue where the\nobjection was filed. Step 3 Request the person being objected to present his/her TVC to\nascertain the person was registered at the registration venue. Step 4 Review the reasons for objection with the person making the\nobjection and the person objected to and request both parties to\npresent additional evidence to substantiate their claims. Step 5 If the evidence is provided by the person being objected to, write the\nevidence presented on the back of Form EC.3. Step 6 After reviewing the information presented by both parties, either\naccepts or rejects the claim, indicating briefly the reasons thereof\nand informs both parties of his/her decision. Step 7 Note his/her decision on Form EC.3 in the Section \"For Official Use\nOnly\".",
+   "page": 93,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0146",
+   "text": "the reasons thereof\nand informs both parties of his/her decision. Step 7 Note his/her decision on Form EC.3 in the Section \"For Official Use\nOnly\". If the objection is accepted by the REVO, he/she shall:",
+   "page": 93,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0147",
+   "text": "Step 8 Cancel the name and other details of the person being objected to\nfrom the PRV and retain the TVC\nStep 9 Write at the right hand corner of Form EC.3 the words \"Objection\nAllowed\" with his/her signature and date.\nIf the objection is not accepted by the REVO, he/she shall:\nStep 10 Return the TVC back to the person whose registration as a voter\nwas objected to.\nStep 11 Write at the right hand corner of Form EC.3 the words \"Objection\nDisallowed\" with his/her signature and date.\nStep 12 Initial all approved alterations and put his/her signature at the end of\neach page of the PRV.\nNote: If either party is dissatisfied by the decision of the REVO, the party\naggrieved may, within 7days, appeal to the REC whose\ndecision shall be final.",
+   "page": 94,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0148",
+   "text": "APPENDICES\nAppendix I: FREQUENTLY ASKED QUESTIONS\nQUESTION 1A: The Prospective Registrant does not look 18 years old?\nANSWER 1A: AROs must ask the Prospective Registrant to provide evidence that he or she\nhas reached the required age for Registration. This could be done by presenting\na driver's license, passport, birth certificate, or any other recognized identification\nsuch as a Photo ID card. A certificate from the local traditional ruler would also\nsuffice. QUESTION 2A: What if the Registration Official suspects that the Prospective Registrant is\nnot a Citizen?\nANSWER 2A: The Prospective Registrant must prove that he/she is a Nigerian citizen, which\ncan be done by presenting a Nigerian passport or birth certificate. QUESTION 3A\nWhat If The Prospective Registrant Does Not Know his/her Age, Or Date Of\nBirth?\nANSWER 3A: If it is evident that the Prospective Registrant is above 18 years old, the ARO\nshould ask questions as to establish an estimated age of the person.",
+   "page": 95,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0149",
+   "text": "If it is evident that the Prospective Registrant is above 18 years old, the ARO\nshould ask questions as to establish an estimated age of the person. Questions\nsuch as, \"Was the person born before Nigeria obtained independence?\nQUESTION 4A\nWe are running short of Registration Forms, or any other necessary\nmaterial or equipment to fulfill our duties in the Registration Centre, and the\nSARO has not been visiting the Centre. Who do we contact?",
+   "page": 95,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0150",
+   "text": "ANSWER 4A:\nBefore you run out of Forms, or any other essential material, you must contact\nyour Electoral Officer in the Local Government Area. The EO will provide you the\nrequested material.\nQUESTION 5A:\nI accidentally made a mistake on the EC.1A Form and cannot correct it. How\ndo I handle this?\nANSWER 5A\nIt is absolutely essential that the particulars of the registrant be recorded\naccurately on Form EC.1A. Therefore, should a mistake be made that cannot be\nrectified on the same line/column of Form EC.1A, the ARO must neatly cross out\nand enter such information on the next column.",
+   "page": 96,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0151",
+   "text": "2. QUESTIONS FREQUENTLY ASKED BY PROSPECTIVE REGISTRANTS\nQUESTION 1B:\nI want to register in my village, but cannot go back to register. Can I register\nnow and transfer later?\nANSWER 1B\nYes you can. If you are eligible to register in both LGAs, then you can request for\na transfer at \"a later date by applying to the REC or Electoral Officer in LGA,\nwhere you want to transfer to using Form EC.TF.01.\nQUESTION 2B:\nI'm 17 years old now, but will be 18 by the time of the Local Government\nelections. Can I register?",
+   "page": 96,
+   "section": "Section/clause 2"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0152",
+   "text": "ANSWER 2B:\nNo, you cannot, because according to Electoral Law, only people that are 18\nyears of age at the time of Registration are allowed to register for the poll.\nQUESTION 2C:\nMy wife is in hospital (or has travelled), and cannot register during the\nperiod. Can I register for her?\nANSWER 2C:\nNo, because persons who are eligible to register are only allowed to register in\nperson. No registration by proxy.\nQUESTION 2D:\nIf I lose my Voter's Card, can I get a new one?\nANSWER 2D:\nYes, by approaching the Electoral Officer responsible for your LGA not less than\nseven (7) days before Election Day. If satisfied that the original Voter's Card is\nindeed lost, defaced or in any other unusable state, the EO will issue a new Card\nthat is clearly marked \"Duplicate\".",
+   "page": 97,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0153",
+   "text": "Appendix II\nPart VIII\nELECTORAL OFFENCES\n(Excerpts from the Electoral Act 2006)",
+   "page": 98,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0154",
+   "text": "124. Any person who: a. without authority, destroys, mutilates, defaces or removes or makes any alteration\nin any notice or document required for the purpose of registration under this Act,\nb. Knowingly gives false information or makes a false statement with reference to any\napplication for registration of his name or with reference to any objection to the\nretention of the name of a person in the Register of Voters,\nc. Presents himself to be or does any act whereby he is by whatever name or\ndescription howsoever, included in the register of voters for a constituency in which\nhe is not entitled to be registered or causes himself to be registered in more than\none registration or revision centre,\nd. Publishes any statement or report, which he knows to be false or does not believe\nto be true so as to prevent persons who are qualified to register from registering as\nvoters,\ne.",
+   "page": 98,
+   "section": "Section/clause 124"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0155",
+   "text": "which he knows to be false or does not believe\nto be true so as to prevent persons who are qualified to register from registering as\nvoters,\ne. makes in any record, register or document which he is required to prepare, publish\nor keep for the purpose of registration, any entry or statement which he knows to\nbe false or does not believe to be true,\nf. impedes or obstructs a Registration Official or a Revision Officer in the\nperformance of his duties,\ng. without proper authority, wears the identification of a registration officer or assistant\nRegistration Official or wears any other identification purporting to be the\nidentification of a registration official or assistant registration official,\nh. forges a registration card,\ni. carries out registration or revision of voters at a centre or place not designated by\nthe Commission commits an offence and liable on conviction to a maximum fine of\nN100,000 or to 12months imprisonment or to both..",
+   "page": 98,
+   "section": "Section/clause 124"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0156",
+   "text": "125. (1) A person who:\na) forges any nomination paper\nb) willfully defaces or destroys any nomination paper,\nc) delivers to an electoral officer any nomination paper knowing it to be forged,\nd) signs a nomination paper as a candidate in more than one constituency at the\nsame election,",
+   "page": 98,
+   "section": "Section/clause 125"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0157",
+   "text": "e) forges any ballot paper or official mark on any ballot paper or any certificate of\nreturn,\nf) willfully destroys any ballot paper or official mark on any ballot paper of any\ncertificate of return'\ng) without authority gives a ballot paper to any person,\nh) willfully places in any ballot box any unauthorized paper,\ni) willfully removes from a polling station any ballot paper whether or not the ballot\npaper was issued to him in that polling station,\nj) without authority destroys or in any other manner interferes with a ballot box or its\ncontents or any ballot paper then in use or likely to be used for the purpose of an\nelection,\nk) signs a nomination paper consenting to be a candidate at an election knowing that\nhe is ineligible to be a candidate at that election'\n(2) A person who commits an offence under subsection (1) of this section is liable on\nconviction to a maximum fine of N200,000 or to imprisonment for 2 years or both. (3) A person who:",
+   "page": 99,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0158",
+   "text": "under subsection (1) of this section is liable on\nconviction to a maximum fine of N200,000 or to imprisonment for 2 years or both. (3) A person who: a) without proper authority prints a ballot paper or what purports to be or is\ncapable of being used as a ballot paper at an election. b) being authorized by the Commission to print ballot papers, prints more than\nthe number or quantity the Commission authorized.",
+   "page": 99,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0159",
+   "text": "at an election. b) being authorized by the Commission to print ballot papers, prints more than\nthe number or quantity the Commission authorized. c) without authority, is found in the possession of a ballot paper when he is not in\nthe process of voting and at a time when the election for which the ballot\npaper is intended is not yet completed,\nd) manufactures, constructs, imports into Nigeria, has in possession, supplies to\nany election officer or uses for the purpose of an election, or causes to be\nmanufactured, constructed or imported into Nigeria, supplies to any election\nofficer for official use for the purpose of any election, any Ballot Box including\nany compartment, appliance, device or mechanism on or by which a ballot\npaper may or could be secretly placed or stored in, having been deposited\nduring polling may be secretly diverted, misplaced or manipulated, commits an\noffence.",
+   "page": 99,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0160",
+   "text": "could be secretly placed or stored in, having been deposited\nduring polling may be secretly diverted, misplaced or manipulated, commits an\noffence. (4) A person who commits an offence under subsection (3) of this section is liable on\nconviction to a maximum fine of N5,000,000 and imprisonment for 5 years or to both. (5) An attempt t5op commit any offence under this section shall be punishable in the\nsame manner as the offence itself.",
+   "page": 99,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0161",
+   "text": "126. Any person, who at any political meeting held after the date for an election has been\nannounced:\na) acts or incites another to act in a disorderly manner for the purpose of preventing the\ntransaction of the business for which the meeting was convened, or",
+   "page": 99,
+   "section": "Section/clause 126"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0162",
+   "text": "b) has in his possession an offensive weapon or missiles, commits an offence and is\nliable on conviction to a maximum fine of N100,000 or imprisonment for 12 months\nor both.",
+   "page": 100,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0163",
+   "text": "127. Any person who:\na) being entitled to voter's card, gives it to some other person for use at an election\nother than an officer appointed and acting in the course of his duty under this Act.\nb) Not being an officer acting in the course of his duty under this Act, receives any\nvoter's card in the name of some other person or persons for use at an election\nuses it fraudulently,\nc) Without lawful excuse has in his possession more than on Voter's Card, or\nd) Buys, sells, procures or deals, with a voter's card otherwise than as provided in this\nAct.\ncommits an offence and is liable on conviction to a maximum fine of N100,000 or\nimprisonment for 12 months or both.",
+   "page": 100,
+   "section": "Section/clause 127"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0164",
+   "text": "128. (1) No person shall provide for the purpose of any other person to a Registration\nOfficial or to a polling station any government vehicle or boat belonging to a public\ncorporation, except in respect of a person who I ordinarily entitled to use such vehicle or\nboat and in emergency in respect of an electoral officer.\n(2) Any person who contravenes the provisions of this section shall be guilty of an\noffence and liable on conviction to a maximum fine of N50,000 or imprisonment for six\nmonths or both.",
+   "page": 100,
+   "section": "Section/clause 128"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0165",
+   "text": "129. (1) Any person who: a) Applies under this Act to be included in any list of voters in the name of some other\nperson, whether such name is that of a person living or dead or of fictitious person.",
+   "page": 100,
+   "section": "Section/clause 129"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0166",
+   "text": "to be included in any list of voters in the name of some other\nperson, whether such name is that of a person living or dead or of fictitious person. b) Having once to his knowledge been properly included in a list of voters under this Act\nas a voter entitled to vote at any election, applies, except as authorized by this Act, to\nbe included in any other list of voters prepared for any Constituency as a voter at an\nelection,\nc) Applies for a Ballot Paper in the name of some other person, whether such name is\nthat of a person living or dead or of fictitious person,\nd) Having voted once at an election applies at the same election for another ballot\npaper,\ne) Votes or attempts to vote at an election knowing that he is not qualified to vote at the\nelection, or\nf) Induces or procures any other person to vote at an election knowing that such other\nperson is not qualified to vote at an election, commits an offence and is liable on\nconviction to a maximum fine of N100,000 or imprisonment for 12 months or both.",
+   "page": 100,
+   "section": "Section/clause 129"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0167",
+   "text": "qualified to vote at an election, commits an offence and is liable on\nconviction to a maximum fine of N100,000 or imprisonment for 12 months or both. (2) Any person who commits the offence of impersonation or who aids, abets, counsels\nor procures the commission of that offence, commits an offence and is liable on conviction to\na maximum fine of N100,000 or imprisonment for 12 months or both.",
+   "page": 100,
+   "section": "Section/clause 129"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0168",
+   "text": "(3) No person charged with the offence of impersonation shall be convicted except on\nthe evidence of at least two witnesses.",
+   "page": 101,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0169",
+   "text": "130. (1) Any officer appointed for the purposes of this Act, who without lawful excuse does\nany act or omits to act in breach of his official duty commits an offence and is liable on\nconviction to a maximum fine of N100,000 or imprisonment for 12 months or both. (2) Any Polling Officer who fails to report promptly at his polling station on an election day\nwithout lawful excuse, commits an offence of dereliction of duty and on conviction is liable to\na maximum fine of N100, 000 or imprisonment for 12 months or both. (3) Any Polling Officer who fails to discharge his lawful duties at his polling station without\nlawful excuse offence, commits an offence of dereliction of duties and on conviction is liable\nto a maximum fine of N100,000 or imprisonment for 12 months or both.",
+   "page": 101,
+   "section": "Section/clause 130"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0170",
+   "text": "offence, commits an offence of dereliction of duties and on conviction is liable\nto a maximum fine of N100,000 or imprisonment for 12 months or both. (4) Any person who announces or publishes an election result knowing same to be false or\nwhich is at variance with the signed certificate of return commits an offence and is liable on\nconviction to 36 months imprisonment. (5) Any Returning Officer or Collation Officer who delivers or causes to be delivered a false\ncertificate of return knowing same to be false to the Commission or a State Independent\nElectoral Commission, commits an offence and is liable on conviction to a maximum\nimprisonment for 3 years without an option of fine. (6) Any person who delivers or causes to be delivered a false Certificate of Return knowing\nsame to be false to any news media commits an offence and is liable on conviction to\nimprisonment for three (3) years.",
+   "page": 101,
+   "section": "Section/clause 130"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0171",
+   "text": "(1) Any person who: a) directly or indirectly by himself or by any other person on his behalf, gives, lends or\nagrees to give or lend, or offers, promises,\nb) promises to procure or to endeavor to procure, any money or valuable consideration\nto or for any voter, to or for any person on behalf of any voter, or to or for any other\nperson, in order to induce any voter, to refrain from voting, or corruptly does any such\nact on account of such voter having voted or refrained from voting, at any election,\nc) directly or indirectly by himself or by any other person on his behalf, corruptly makes\nany gift, loan, offer, promise, procurement or agreement to or for any person, in order\nto induce such person to procure or to endeavor to procure the return of any person\nas a member of a Legislative House or to an elective office or the vote of any voter\nat any election upon or in consequence of any gift, loan, offer, promise, procurement\nor agreement, corruptly procure, or engages or promises or endeavours to procure,\nthe return of any person as a member of a Legislative House or an elective office or\nthe vote of any voter at any election.",
+   "page": 101,
+   "section": "Section/clause 131"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0172",
+   "text": "or endeavours to procure,\nthe return of any person as a member of a Legislative House or an elective office or\nthe vote of any voter at any election. d) Upon or in consequence of any gift, loan, offer, promise, procurement or agreement\ncorruptly procures, or engages or promises or endeavors to procure, the return of the\nperson as a member of a Legislative House or to an elective office or the vote of any\nvoter at any election.",
+   "page": 101,
+   "section": "Section/clause 131"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0173",
+   "text": "e) Advances or pays or causes to be paid any money to or for the use of any other\nperson, with the intent that such money or any part thereof shall be expended in\nbribery at any election, or who knowingly pays or causes to be paid any money to\nany person in discharge or repayment of any money wholly or in part expended in\nbribery at any election; f) After any election directly, or indirectly, by himself, or by any other person on his\nbehalf receives any money or valuable consideration on account of any person\nhaving voted or refrained from voting, or having induced any other person to vote or\nrefrain from voting or having induced any candidate to refrain from canvassing for\nvotes for himself at any such election, commits an offence and is liable on conviction\nto a maximum fine of N100,000 or 12 months imprisonment or both.",
+   "page": 102,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0174",
+   "text": "for himself at any such election, commits an offence and is liable on conviction\nto a maximum fine of N100,000 or 12 months imprisonment or both. (2) A voter commits an offence of bribery who before or during an election directly or\nindirectly by himself or by any other person on his behalf, receives, agrees or contracts\nfor any money, gift, loan, or valuable consideration, office, place or employment, for\nhimself, or for any other person, for voting or agreeing to vote or for refraining or\nagreeing to refrain from voting at any such election. (3) Nothing in this section shall extend or apply to money paid or agreed to be paid for or\non account of any lawful expenses bona fide incurred at or concerning any election. (4) Any person who commits the offence of bribery is liable on conviction to a maximum\nfine of N100, 000 or imprisonment for 12 months or both.",
+   "page": 102,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0175",
+   "text": "(4) Any person who commits the offence of bribery is liable on conviction to a maximum\nfine of N100, 000 or imprisonment for 12 months or both. (5) Any person who conspires, aids or abets with any other person to commit any of the\noffences under this part of this Act shall be guilty of the same offences and punishment\nthereto. (6) For the purposes of this Act, a candidate shall be deemed to have committed an\noffence if it was committed with his knowledge and consent or the knowledge and\nconsent of a person who is acting under the general or special authority of the candidate\nwith reference to the election.",
+   "page": 102,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0176",
+   "text": "132. (1) Every person in attendance at a polling station including every officer charged\nwith the conduct of an election and his or her assistants and every polling agent and\ncandidate in attendance at a polling station or at the collation centre, as the case may\nbe, shall maintain and aid in maintaining the secrecy of the voting.\n(2) No person in attendance at a polling booth under this section shall, except for some\npurpose authorized by law, communicate to any person information as to the name or\nnumber on the register of any voter who has or has not voted at the place of voting.\n(3) No person shall:\na) interfere with a voter casting his vote, or by any other means obtain or attempt to\nobtain in a polling station information as to the candidate for whom a voter in that\nplace is about to vote for or has voted for; or\nb) communicate at any time to any other person information obtained in a polling\nstation as to the candidate to whom a voter is about to vote or has voted for.",
+   "page": 102,
+   "section": "Section/clause 132"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0177",
+   "text": "(4) Any person acting contrary to the provisions of this section commits an offence and is\nliable upon conviction to a maximum fine of N50, 000 or to imprisonment for 6months or\nboth.",
+   "page": 103,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0178",
+   "text": "133. Any person who:\na) votes at an election or induces or procures any person to vote at an election,\nknowing that he or such person is prohibited from voting thereat; or\nb) before or during an election, publishes any statement of the withdrawal of a\ncandidate at such election knowing it to be false or reckless as to its truth or falsity; or\nc) before or during an election publishes any statement as to the personal character or\nconduct of a candidate calculated to prejudice the chance of election of the candidate\nor to promote or procure the election of another candidate and such statement is\nfalse and was published without reasonable grounds for belief by the person\npublishing it that the statement was true, commits an offence and is liable on\nconviction to a maximum fine of N50,000 or imprisonment for a term of 6 months or\nboth.",
+   "page": 103,
+   "section": "Section/clause 133"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0179",
+   "text": "134. (1) Any person who knowingly votes or attempts to vote in a Constituency in respect of\nwhich his name is not on the register of voters commits an offence and is liable on conviction\nto a maximum fine of N50,000 or imprisonment for a term of 6 months or both.\n(2) Any person who knowingly brings into a polling station during an election a voter's\ncard issued to another person commits an offence and is liable on conviction to a maximum\nfine of N50, 000 or to imprisonment for 6 months or both.",
+   "page": 103,
+   "section": "Section/clause 134"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0180",
+   "text": "135. Any person who at an election acts or incites others to act in a disorderly manner\ncommits an offence and is liable on conviction to a maximum fine of N100, 000 or\nimprisonment for a term of 12 months or both.",
+   "page": 103,
+   "section": "Section/clause 135"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0181",
+   "text": "136. (1) No person shall on the date on which an election is held do any of the following acts\nor things in the polling station or within a distance of 300 metres of the polling stationa) canvass for votes;\nb) solicit for the vote of any voter;\nc) persuade any voter not to vote for any particular candidate;\nd) persuade any voter not to vote at an election;\ne) shout slogans concerning the election;\nf) be in possession of any offensive weapon or wear any dress or have any facial or\nother decoration, which in any event is calculated to intimidate voters;\ng) exhibit, wear or tender any notice, symbol, photograph or party card referring to the\nelection;\nh) use any vehicle bearing the colour or symbols of a political party by any means\nwhatsoever;\ni) loiter without lawful excuse after voting or after being refused to vote;",
+   "page": 103,
+   "section": "Section/clause 136"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0182",
+   "text": "j) snatch or destroy any election materials; and\nk) blare siren.\n(2) No person shall in the vicinity of the polling unit or collation centre on the day of\nwhich an election is held:\na) convene, hold or attend any public meeting during the hours of pools as may be\nprescribed by the Commission;\nb) unless appointed under this Act, to make official announcements, operate any\nmegaphone, amplifier or public address apparatus;\nc) wear or carry any badge, poster, banner, flag or symbol relating to a political party or\nto the election.\n(3) A person who contravenes any of the provisions of this section commits an offence\nand is liable on conviction to a fine of N50,000 or imprisonment for 6 months for every such\noffence.\n(4) Any person who snatches or destroys any election materials commits an offence and\nis liable on conviction to 12 months imprisonment.",
+   "page": 104,
+   "section": ""
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0183",
+   "text": "137. A person who:\na) Corruptly by himself or by any other person at any time after the date of an election\nhas been announced, directly or indirectly gives, provides or pays money to or for\nany person for the purposes of corruptly influencing that person or any other person\nto vote or refrain from voting at such election, or on account of such person or any\nother person having voted or refrained from voting at such election; or\nb) Being a voter, corruptly accepts or takes money or any other inducement during any\nof the periods stated in paragraph (a) of this section commits an offence and is liable\non conviction to a fine of N100, 000 or 12 months imprisonment or both.",
+   "page": 104,
+   "section": "Section/clause 137"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0184",
+   "text": "138. A person who: a) directly or indirectly by himself or by any other person on his behalf, makes use of or\nthreatens to make use of any force, violence or restrain; b) inflicts or threatens to inflict by himself or by any other person, any minor or serious\ninjury, damage, harm or loss on or against a person in order to induce or compel that\nperson to vote or refrain from voting, or on account of such person having voted or\nrefrained from voting, or\nc) by abduction, duress, or fraudulent device or contrivance, impedes or prevents the\nfree use of the vote by a voter or thereby compels, induces, or prevails on a voter to\ngive or refrain from giving his vote,\nd) by preventing any political aspirants from free use of the media, designated vehicles,\nmobilization of political support and campaign at an election, commits the offence of\nundue influence and is liable on conviction to a fine of N100,000 or imprisonment for\n3 years. 139.",
+   "page": 104,
+   "section": "Section/clause 138"
+  },
+  {
+   "chunk_id": "cvr-guide-2013-0185",
+   "text": "campaign at an election, commits the offence of\nundue influence and is liable on conviction to a fine of N100,000 or imprisonment for\n3 years. 139. the offences referred to in this Act shall apply to recall of a member of a Legislative\nHouse and a member of Local Government Council.",
+   "page": 104,
+   "section": "Section/clause 138"
+  }
+ ]
+}

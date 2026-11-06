@@ -1,0 +1,38 @@
+{
+ "document": {
+  "id": "supplementary-elections-press-2023",
+  "title": "Press Release: Conduct of Supplementary Elections (27 March 2023)",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/documents/CONDUCT-OF-SUPPLEMENTARY-ELECTIONS.pdf",
+  "status": "historical",
+  "publication_date": "2023-03-27",
+  "publication_date_basis": "Date stated in the document",
+  "description": "A press release about the April 2023 supplementary elections. It is about those polls only.",
+  "category": "Press release",
+  "extraction": "ocr",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "3882c033eec91202372f1f021940002a3b46cc7a9e8513c471cd4d80c910a9a9",
+  "page_count": 1
+ },
+ "chunks": [
+  {
+   "chunk_id": "supplementary-elections-press-2023-0000",
+   "text": "INDEPENDENT NATIONAL ELECTORAL COMMISSION\nINEC-HEADQUARTERS\nPlot436,ZambeziCrescent,MaitamaDistrict\nP.M.B0184,Abuja,Federal Capital Teri tory,Nigria\nWebsite: www.inecnigeria.org Online Newspapec.www.inecnews.com\nPRESSRELEASE\nCONDUCT OF SUPPLEMENTARY ELECTIONS\nThe Commission met todayMonday 27 thMarch 2023 and reviewed the areas where\nsupplementary elections are required to conclude the outstanding Governorship,\nNational and State Assembly elections across the country. It will be recalled that26State Governorship,104Senatorial,329 Federaland 935\nState constituency elections have been concluded andwinners declared. Consequently,supplementary Governorship elections will be heldinAdamawa and\nKebbiStates,5 Senatorial Districts,31 Federaland 58 StateAssembly constituencies. Owing to the competitive nature ofthe elections,especially for legislative seats,\nsupplementary elections will beheld in just a few polling unit in some constituencies.",
+   "page": 1,
+   "section": ""
+  },
+  {
+   "chunk_id": "supplementary-elections-press-2023-0001",
+   "text": "nature ofthe elections,especially for legislative seats,\nsupplementary elections will beheld in just a few polling unit in some constituencies. A comprehensive list of the pollingunits by State,Local Government,Registration\nArea,registered votersand PVCscollected will be published on our website on or\nbeforeWednesday 29 tMarch 2023. Meanwhile,the Commission has fixed Saturday 15 thApril 2023 fortheconductof\nthe supplementary elections in the affected polling units nationwide. Weappeal to all political parties,candidates and stakeholders tonote the date and\nlocations of the supplementary elections.Theearlier accreditation for pollingand\ncollation agents,observers and themedia still subsistsfor the supplementary elections. The Commission once again urges political parties, candidates and their supporters to\nsee theexercise asan election and notwar.They should avoidincendiary statements\nandnegative mobilisation so that the elections can beconductedand concludedas\nscheduled.",
+   "page": 1,
+   "section": ""
+  },
+  {
+   "chunk_id": "supplementary-elections-press-2023-0002",
+   "text": "election and notwar.They should avoidincendiary statements\nandnegative mobilisation so that the elections can beconductedand concludedas\nscheduled. Barr.Festus Okoye\nNational Commissionerand Chairman\nInformation and Voter Education Committee\nMonday 27 thMarch 2023",
+   "page": 1,
+   "section": ""
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "document": {
+  "id": "election-procedure-2023",
+  "title": "Election Procedure (Voting Procedure and Election Day Guide)",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/documents/guidelines/2023-Election-Procedure-1.pdf",
+  "status": "needs_verification",
+  "publication_date": "2023",
+  "publication_date_basis": "Year in official file name",
+  "description": "Step-by-step election day guide. INEC still links it, but it predates the Electoral Act 2026.",
+  "category": "Voter education",
+  "extraction": "digital",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "a8bb2be018a36205facb3169d71a053c676978210b741ce7821fe128df3d6dc2",
+  "page_count": 8
+ },
+ "chunks": [
+  {
+   "chunk_id": "election-procedure-2023-0000",
+   "text": "As the 2023 General Election draws near, it is necessary to let citizens\nwho are 18 years and above know the voting procedure. It is your\ncivic responsibility as a citizen of Nigeria to be involved in electing our\nleaders. This is what election is all about and there cannot be election\nwithout voters.\nBasic Election Information\nPresidential and National Assembly Election - 25th February, 2023\nGovernorship and State Houses of Assembly Election - 11th March,\n2023\nTime - 8:30am to 2:30pm\n(However, voters on the queue on or before 2:30pm will be allowed\nto vote)\nWho is allowed (eligible) to vote?\nTo vote, you must be:\n• A Nigerian, 18 years and above\n2023 GENERAL ELECTION\nVOTING PROCEDURE",
+   "page": 3,
+   "section": ""
+  },
+  {
+   "chunk_id": "election-procedure-2023-0001",
+   "text": "• A registered voter\n• In possession of a Permanent Voter's Card (PVC)\n• Appear in person at the polling unit\nWhere Can I Vote?\nYou will vote in the polling unit where your name is enlisted in the\nRegister of Voters. Do I need my PVC to be able to Vote?\nYES! Only those with their PVC and that are authenticated using the\nBVAS device (fingerprint or facial recognition) shall be allowed to vote. NO PVC, NO VOTING!\nWhat is BVAS?\nBVAS is an electronic machine called Bimodal Voter Accreditation\nSystem. It is used for voter verification and authentication to confirm\nthe identity of a voter using either their fingerprints or face. Significance of BVAS\nThe BVAS and/or any other electronic device INEC uses at elections has\nbeen backed by the Electoral Act 2022. It ensures that only persons\neligible to vote and in possession of their PVCs and whose names are\non the register of voters of a particular polling unit are allowed to vote\nat that polling unit and to only vote once.",
+   "page": 4,
+   "section": ""
+  },
+  {
+   "chunk_id": "election-procedure-2023-0002",
+   "text": "their PVCs and whose names are\non the register of voters of a particular polling unit are allowed to vote\nat that polling unit and to only vote once. Differences between BVAS and the Smart Card Reader (SCR) previously\nused by INEC\n• It verifies and accredits voter using either their fingerprints or\ntheir face, eliminating failure to accredit eligible voter.",
+   "page": 4,
+   "section": ""
+  },
+  {
+   "chunk_id": "election-procedure-2023-0003",
+   "text": "• Details of voters are stored on the BVAS and not on the PVC\nas was the case with SCR.\n• BVAS is used as INEC Voter Enrolment Device (IVED) during\nvoters registration.\n• BVAS is used for uploading election results to the INEC Results\nviewing Portal (IReV).\nNote:\nThe BVAS automatically updates itself as accreditation takes place\nhence, the figures cannot be manipulated.\nPROCEDURE FOR ACCREDITATION AND VOTING",
+   "page": 5,
+   "section": ""
+  },
+  {
+   "chunk_id": "election-procedure-2023-0004",
+   "text": "1. Accreditation\n• Polling Unit will open at 8:30am and close at 2:30pm or when\nthe last person on the queue on or before 2:30pm votes. This\nmeans that all eligible voters on queue as at 2:30pm will be\nallowed to vote.\n• Bimodal Voter Accreditation System (BVAS) shall be used\nto verify you (voter) as the valid owner of the PVC in your\npossession and that your name is on the Register of Voters in\nthat polling unit.\n• It will match your fingerprints and (or) face; one of which must\nsuccessfully identify you as the owner of the PVC presented to\nthe official before you will be allowed to vote.\n• If the BVAS fails to recognise your fingerprint, the facial\nrecognition function of BVAS will be used to verify and accredit\nyou.",
+   "page": 5,
+   "section": "Section/clause 1"
+  },
+  {
+   "chunk_id": "election-procedure-2023-0005",
+   "text": "• After the above steps are successfully completed, a poll official\nwill check for your name in the Register of Voters and tick it.\n• Indelible ink will be applied on the cuticle of your finger.\n• A stamped, signed and dated ballot paper will be issued to\nyou.\n• If the BVAS fails to recognise your fingerprints as well as facial\nphotograph, you will not be allowed to vote.",
+   "page": 6,
+   "section": ""
+  },
+  {
+   "chunk_id": "election-procedure-2023-0006",
+   "text": "2. Voting\n• You will go to the voting cubicle to mark your choice on the\nballot paper in secret.\n• Ensure the ink does not smear other parts of the ballot paper\nto avoid your vote being rejected.\n• The ballot paper should be folded vertically.\n• You are not allowed to take photograph of the ballot paper\nwhen in the voting cubicle.\n• You will drop the marked ballot paper into the ballot box in\nfull view of all present.\n• After casting your vote, you are free to remain 300 metres\nfrom the polling area to witness sorting, counting and\nannouncement of result, provided you are orderly and do not\ndisrupt the process.\nCollation and Announcement of Results\nResults shall be collated at various levels depending on the type of",
+   "page": 6,
+   "section": "Section/clause 2"
+  },
+  {
+   "chunk_id": "election-procedure-2023-0007",
+   "text": "election, after which it is announced by INEC.\nIn order to enhance transparency, INEC has provided an online\nresults viewing portal called IReV (www.inecelectionsresults.ng)\nwhere you can view results of all polling units in real time before they\nare declared at the end of the election by INEC.",
+   "page": 7,
+   "section": ""
+  }
+ ]
+}

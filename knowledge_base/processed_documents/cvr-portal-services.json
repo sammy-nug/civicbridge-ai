@@ -1,0 +1,38 @@
+{
+ "document": {
+  "id": "cvr-portal-services",
+  "title": "INEC Continuous Voter Registration Portal: Services",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://cvr.inecnigeria.org/Public/getStarted",
+  "status": "current",
+  "publication_date": null,
+  "publication_date_basis": "Live page with no stated date; see retrieval date",
+  "description": "INEC's description of portal services: pre-registration, transfer, information update, PVC collection and replacement.",
+  "category": "Voter registration",
+  "extraction": "web_snapshot",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "35dfdb986febaaf944487ea6ab52289a1b9573f618818266dfa5e0c6d39ec618",
+  "page_count": 1
+ },
+ "chunks": [
+  {
+   "chunk_id": "cvr-portal-services-0000",
+   "text": "INEC Continuous Voter Registration Portal: Services INEC Portal\nContinuous Voter Registration Portal\nThis portal allows you to\nUpdate Your voter registration information,\nTransfer your voter registration to another polling unit,\nReplace your damaged or lost PVC and find Registration Centres near you to Register for the first time. Services\nGet Your Downloadable PVC (Coming soon)\nDownload a digital copy of your Permanent Voter's Card after a PVC Replacement request. Currently a pilot for eligible Osun State voters. Learn How\nNew Voter Online Registration\nIf you have not registered for your voter's card before and would like to do so now, click the button below to start and complete your registration online. Start Registration\nNew Voter Pre-Registration\nIf you have not registered for your voter's card before and would like to do so now, click the button below to pre-register and save a lot of time when you visit the Biometric Data Collection Centres.",
+   "page": null,
+   "section": "INEC Continuous Voter Registration Portal: Services"
+  },
+  {
+   "chunk_id": "cvr-portal-services-0001",
+   "text": "and would like to do so now, click the button below to pre-register and save a lot of time when you visit the Biometric Data Collection Centres. Start Pre-Registration\nVoter Information Review\nIf you have registered and you have not yet reviewed your information by providing your photo online on this platform (or at any registration centre since June 28, 2021), click the button below to begin the process. Start Revalidation Process\nLocate Registration Centres\nIf you wish to visit a Registration Centre to complete your application or registration, there are centres available in INEC State and Local Government Offices and many other locations. Click the button below to find centres closest to you.",
+   "page": null,
+   "section": "INEC Continuous Voter Registration Portal: Services"
+  },
+  {
+   "chunk_id": "cvr-portal-services-0002",
+   "text": "are centres available in INEC State and Local Government Offices and many other locations. Click the button below to find centres closest to you. Find Registration Centres\nTransfers\nIf you are a duly registered voter and you wish to change your voting location, click the button below to begin the process\nStart Transfer Request\nInformation Update\nIf you are a duly registered voter and you wish to update the information on your Voter's Card , click the button below to begin the process\nStart Update Request\nUncollected PVC\nIf you have registered previously and you have not gotten your Permanent Voters Card (PVC), click the button below to find out where you can pick your PVC. Check Pickup Locations\nLost or Damaged PVC\nIf you have misplaced your PVC or if your PVC is damaged and you would like a replacement, click the button below to apply for a re-issue. Submit Request",
+   "page": null,
+   "section": "INEC Continuous Voter Registration Portal: Services"
+  }
+ ]
+}

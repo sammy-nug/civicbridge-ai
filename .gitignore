@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Evaluation stays committed: results are evidence. backend/.env above holds local settings.
+
+# Runtime data (rebuilt by ingestion; contains no secrets but is generated)
+backend/data/
+*.sqlite3
+
+# Original PDFs are large and re-downloadable with fetch_sources.py.
+# processed_documents/ IS committed so deploys never need OCR or INEC uptime.
+knowledge_base/raw_documents/
+
+.DS_Store
+.vscode/

@@ -1,0 +1,50 @@
+{
+ "document": {
+  "id": "observer-application-2027",
+  "title": "Request for Application to Serve as Observer Groups for 2027 General Election",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/documents/ADVERT%20FOR%20ELECTION%20OBSERVATION.%2019%20%20SEPTEMBER%202026.pdf",
+  "status": "current",
+  "publication_date": "2026-09-19",
+  "publication_date_basis": "Date in official file name",
+  "description": "How observer groups apply and are accredited for the 2027 general election, including the application deadline.",
+  "category": "Election observation",
+  "extraction": "digital",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "00e3d0e39d795092c7ba8b4969cab4b27c97ddfb664818dffb86ebf27ed22d5a",
+  "page_count": 1
+ },
+ "chunks": [
+  {
+   "chunk_id": "observer-application-2027-0000",
+   "text": "REQUEST FOR APPLICATION TO SERVE AS OBSERVER GROUPS FOR\n\n2027 GENERAL ELECTION\n\nThe Independent National Eelectoral Commission (INEC) hereby invites registered Civil Society\n\nOrganizations (CSOs), Non-Governmental Organizations (NGOs), Diplomatic Corps and other\n\nstakeholders whose work is on democracy, governance and election wishing to observe the\n\nNigeria 2027 General elections scheduled to hold on 16thJanuary (national election) and 6\n\nth\n\nFebruary 2027 (state election) to visit (http://observergroups.inecnigeria.org) and apply. This\n\nis without prejudice to any previous correspondence with the Commission.",
+   "page": 1,
+   "section": ""
+  },
+  {
+   "chunk_id": "observer-application-2027-0001",
+   "text": "2. Observer groups are to submit information including legal status (registration with CAC\n\nor other relevant Agency), evidence of registration with the Civil Society Desk at INEC\n\nHeadquarters, evidence of previous election observations with INEC (if any) and\n\nacknowledgment page of submission of reports of election observation (if any), With the\n\ncompleted form EC14A(I)\n3. The deadline for submission of application (Form EC14A (1)) is 26TH October, 2026. The\n\nlist of successful observer groups approved for accreditation will be published.",
+   "page": 1,
+   "section": "Section/clause 2"
+  },
+  {
+   "chunk_id": "observer-application-2027-0002",
+   "text": "4. Any falsification of documents in the submissions will lead to automatic disqualification\n\nand possible prosecution.\n\nACCREDITATION OF SUCCESSFUL OBSERVER GROUPS\n5. Each successful group would be required to complete the online deployment of field\n\nobservers' Form (EC14A (ii)) and submit same.",
+   "page": 1,
+   "section": "Section/clause 4"
+  },
+  {
+   "chunk_id": "observer-application-2027-0003",
+   "text": "6. Successful observer groups should also note that in order to enable the Commission\n\nproduce identification/accreditation tags for deployed field observers, passport photographs of\n\nthe field observers to be deployed to the field should be arranged on Local Government Area\n\n(LGA) basis, in JPEG Format.",
+   "page": 1,
+   "section": "Section/clause 6"
+  },
+  {
+   "chunk_id": "observer-application-2027-0004",
+   "text": "7. NOTE ON ELECTION OBSERVATION EXERCISE\n\nObserver groups should note that the core principle of election observation in line with best\n\npractices, would guide the conduct of field observers during the election. These include\n\nimpartiality, objectivity and non-partisanship.\n\nPlease be guided accordingly.\n\nSIGNED: INDEPENDENT NATIONAL ELECTORAL COMMISSION (INEC)",
+   "page": 1,
+   "section": "Section/clause 7"
+  }
+ ]
+}

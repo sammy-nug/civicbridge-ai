@@ -1,0 +1,32 @@
+# Render blueprint for the backend. Set GEMINI_API_KEY and ALLOWED_ORIGINS in the dashboard.
+services:
+  - type: web
+    name: civicbridge-api
+    runtime: python
+    plan: free
+    rootDir: .
+    buildCommand: pip install -r backend/requirements.txt && python knowledge_base/ingestion.py index
+    startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+      - key: LLM_PROVIDER
+        value: gemini
+      - key: LLM_MODEL
+        value: gemini-3.6-flash
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: EMBEDDING_BACKEND
+        value: onnx
+      - key: ALLOWED_ORIGINS
+        sync: false
+      - key: TRUST_PROXY_HEADERS
+        value: "true"
+      - key: TRUSTED_PROXY_HOPS
+        value: "1"
+      # Suits Gemini's free tier. Raise it when billing is turned on.
+      - key: LLM_DAILY_REQUEST_LIMIT
+        value: "18"
+      - key: SIMILARITY_THRESHOLD
+        value: "0.45"

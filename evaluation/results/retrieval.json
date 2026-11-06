@@ -1,0 +1,682 @@
+{
+ "summary": {
+  "questions": 32,
+  "hit_rate_at_k_pct": 100.0,
+  "primary_source_found_pct": 96.9,
+  "mean_reciprocal_rank": 0.825,
+  "mean_precision_at_k_pct": 46.1,
+  "median_latency_ms": 64.6,
+  "out_of_scope_with_no_evidence_pct": 66.7
+ },
+ "threshold_sweep": [
+  {
+   "threshold": 0.2,
+   "answerable_kept_pct": 100.0,
+   "out_of_scope_rejected_pct": 0.0
+  },
+  {
+   "threshold": 0.25,
+   "answerable_kept_pct": 100.0,
+   "out_of_scope_rejected_pct": 16.7
+  },
+  {
+   "threshold": 0.3,
+   "answerable_kept_pct": 100.0,
+   "out_of_scope_rejected_pct": 50.0
+  },
+  {
+   "threshold": 0.35,
+   "answerable_kept_pct": 100.0,
+   "out_of_scope_rejected_pct": 66.7
+  },
+  {
+   "threshold": 0.4,
+   "answerable_kept_pct": 100.0,
+   "out_of_scope_rejected_pct": 66.7
+  },
+  {
+   "threshold": 0.45,
+   "answerable_kept_pct": 100.0,
+   "out_of_scope_rejected_pct": 66.7
+  },
+  {
+   "threshold": 0.5,
+   "answerable_kept_pct": 100.0,
+   "out_of_scope_rejected_pct": 66.7
+  },
+  {
+   "threshold": 0.55,
+   "answerable_kept_pct": 93.8,
+   "out_of_scope_rejected_pct": 66.7
+  },
+  {
+   "threshold": 0.6,
+   "answerable_kept_pct": 87.5,
+   "out_of_scope_rejected_pct": 100.0
+  },
+  {
+   "threshold": 0.65,
+   "answerable_kept_pct": 62.5,
+   "out_of_scope_rejected_pct": 100.0
+  },
+  {
+   "threshold": 0.7,
+   "answerable_kept_pct": 31.2,
+   "out_of_scope_rejected_pct": 100.0
+  }
+ ],
+ "questions": [
+  {
+   "id": "reg-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5714285714285714,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "cvr-portal-services",
+    "inec-voter-education",
+    "election-procedure-2023",
+    "inec-voter-education",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.647,
+   "latency_ms": 285.8
+  },
+  {
+   "id": "reg-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5714285714285714,
+   "documents": [
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "inec-voter-faqs",
+    "regulations-guidelines-2026",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.811,
+   "latency_ms": 65.9
+  },
+  {
+   "id": "reg-03",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "cvr-guide-2013",
+    "cvr-guide-2013",
+    "cvr-guide-2013",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.651,
+   "latency_ms": 65.7
+  },
+  {
+   "id": "reg-04",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "registration-guidelines-2013",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "registration-guidelines-2013",
+    "cvr-guide-2013",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.487,
+   "latency_ms": 66.9
+  },
+  {
+   "id": "reg-05",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 4,
+   "precision": 0.16666666666666666,
+   "documents": [
+    "electoral-act-2026",
+    "cvr-portal-services",
+    "electoral-act-2026",
+    "cvr-portal-notice",
+    "electoral-act-2026",
+    "inec-election-calendar"
+   ],
+   "top_similarity": 0.638,
+   "latency_ms": 64.5
+  },
+  {
+   "id": "reg-06",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "cvr-guide-2013",
+    "cvr-guide-2013",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.612,
+   "latency_ms": 64.4
+  },
+  {
+   "id": "tra-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.7142857142857143,
+   "documents": [
+    "electoral-act-2026",
+    "cvr-portal-services",
+    "electoral-act-2026",
+    "cvr-portal-services",
+    "electoral-act-2026",
+    "registration-guidelines-2013",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.606,
+   "latency_ms": 67.9
+  },
+  {
+   "id": "tra-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "inec-election-calendar",
+    "registration-guidelines-2013",
+    "inec-voter-education",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.668,
+   "latency_ms": 102.0
+  },
+  {
+   "id": "tra-03",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "registration-guidelines-2013",
+    "cvr-guide-2013",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.619,
+   "latency_ms": 69.2
+  },
+  {
+   "id": "col-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 2,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "regulations-guidelines-2026",
+    "cvr-portal-services",
+    "regulations-guidelines-2026",
+    "cvr-portal-services",
+    "idp-voting-framework-2022",
+    "inec-voter-education",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.668,
+   "latency_ms": 67.2
+  },
+  {
+   "id": "col-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 2,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "inec-voter-education",
+    "cvr-portal-services",
+    "regulations-guidelines-2026",
+    "cvr-portal-services",
+    "regulations-guidelines-2026",
+    "idp-voting-framework-2022",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.702,
+   "latency_ms": 71.2
+  },
+  {
+   "id": "rep-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "cvr-portal-services",
+    "regulations-guidelines-2026",
+    "cvr-portal-services",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.674,
+   "latency_ms": 65.1
+  },
+  {
+   "id": "rep-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "cvr-guide-2013",
+    "electoral-act-2026",
+    "inec-election-calendar",
+    "regulations-guidelines-2026",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.737,
+   "latency_ms": 95.4
+  },
+  {
+   "id": "rep-03",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.718,
+   "latency_ms": 67.9
+  },
+  {
+   "id": "eli-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5714285714285714,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "inec-voter-faqs",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.606,
+   "latency_ms": 64.6
+  },
+  {
+   "id": "eli-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 4,
+   "precision": 0.3333333333333333,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "inec-voter-faqs",
+    "cvr-portal-services",
+    "regulations-guidelines-2026"
+   ],
+   "top_similarity": 0.561,
+   "latency_ms": 33.2
+  },
+  {
+   "id": "eli-03",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.8571428571428571,
+   "documents": [
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.596,
+   "latency_ms": 64.6
+  },
+  {
+   "id": "eli-04",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 4,
+   "precision": 0.3333333333333333,
+   "documents": [
+    "inec-voter-faqs",
+    "election-procedure-2023",
+    "election-procedure-2023",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "inec-voter-education"
+   ],
+   "top_similarity": 0.728,
+   "latency_ms": 32.4
+  },
+  {
+   "id": "obs-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5,
+   "documents": [
+    "observer-application-2027",
+    "observer-application-2027",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "observer-application-2027",
+    "regulations-guidelines-2026"
+   ],
+   "top_similarity": 0.74,
+   "latency_ms": 34.3
+  },
+  {
+   "id": "obs-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.2857142857142857,
+   "documents": [
+    "observer-application-2027",
+    "observer-application-2027",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "inec-election-calendar"
+   ],
+   "top_similarity": 0.664,
+   "latency_ms": 64.2
+  },
+  {
+   "id": "obs-03",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.16666666666666666,
+   "documents": [
+    "observer-application-2027",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026"
+   ],
+   "top_similarity": 0.746,
+   "latency_ms": 34.1
+  },
+  {
+   "id": "gen-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5,
+   "documents": [
+    "inec-voter-faqs",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "inec-election-calendar",
+    "electoral-act-2026",
+    "regulations-guidelines-2026"
+   ],
+   "top_similarity": 0.808,
+   "latency_ms": 62.5
+  },
+  {
+   "id": "gen-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 7,
+   "precision": 0.14285714285714285,
+   "documents": [
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "election-procedure-2023",
+    "electoral-act-2026",
+    "inec-election-calendar"
+   ],
+   "top_similarity": 0.523,
+   "latency_ms": 68.8
+  },
+  {
+   "id": "gen-03",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 2,
+   "precision": 0.16666666666666666,
+   "documents": [
+    "regulations-guidelines-2026",
+    "inec-election-calendar",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "electoral-act-2026"
+   ],
+   "top_similarity": 0.624,
+   "latency_ms": 67.8
+  },
+  {
+   "id": "gen-04",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.8333333333333334,
+   "documents": [
+    "electoral-act-2026",
+    "inec-voter-education",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2019"
+   ],
+   "top_similarity": 0.63,
+   "latency_ms": 32.2
+  },
+  {
+   "id": "gen-05",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 2,
+   "precision": 0.5,
+   "documents": [
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "electoral-act-2026"
+   ],
+   "top_similarity": 0.651,
+   "latency_ms": 34.4
+  },
+  {
+   "id": "gen-06",
+   "hit": true,
+   "primary_found": false,
+   "first_relevant_rank": 2,
+   "precision": 0.6666666666666666,
+   "documents": [
+    "election-procedure-2023",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2022"
+   ],
+   "top_similarity": 0.787,
+   "latency_ms": 34.1
+  },
+  {
+   "id": "gen-07",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.6666666666666666,
+   "documents": [
+    "idp-voting-framework-2022",
+    "idp-voting-framework-2022",
+    "idp-voting-framework-2022",
+    "electoral-act-2026",
+    "electoral-offences-2019",
+    "registration-guidelines-2013"
+   ],
+   "top_similarity": 0.775,
+   "latency_ms": 35.9
+  },
+  {
+   "id": "old-01",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.42857142857142855,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "cvr-guide-2013",
+    "cvr-guide-2013",
+    "electoral-act-2026",
+    "registration-guidelines-2013",
+    "cvr-portal-notice"
+   ],
+   "top_similarity": 0.704,
+   "latency_ms": 67.7
+  },
+  {
+   "id": "old-02",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-offences-2019",
+    "inec-voter-education",
+    "electoral-offences-2019"
+   ],
+   "top_similarity": 0.548,
+   "latency_ms": 32.5
+  },
+  {
+   "id": "old-03",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5,
+   "documents": [
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "electoral-act-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026"
+   ],
+   "top_similarity": 0.678,
+   "latency_ms": 32.6
+  },
+  {
+   "id": "old-04",
+   "hit": true,
+   "primary_found": true,
+   "first_relevant_rank": 1,
+   "precision": 0.5,
+   "documents": [
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2026",
+    "regulations-guidelines-2022",
+    "regulations-guidelines-2026",
+    "idp-voting-framework-2022",
+    "regulations-guidelines-2019"
+   ],
+   "top_similarity": 0.681,
+   "latency_ms": 33.2
+  }
+ ],
+ "in_scope_scores": {
+  "reg-01": 0.657,
+  "reg-02": 0.854,
+  "reg-03": 0.697,
+  "reg-04": 0.6,
+  "reg-05": 0.676,
+  "reg-06": 0.692,
+  "tra-01": 0.615,
+  "tra-02": 0.668,
+  "tra-03": 0.619,
+  "col-01": 0.525,
+  "col-02": 0.553,
+  "rep-01": 0.569,
+  "rep-02": 0.737,
+  "rep-03": 0.718,
+  "eli-01": 0.634,
+  "eli-02": 0.6,
+  "eli-03": 0.612,
+  "eli-04": 0.661,
+  "obs-01": 0.74,
+  "obs-02": 0.664,
+  "obs-03": 0.746,
+  "gen-01": 0.808,
+  "gen-02": 0.523,
+  "gen-03": 0.624,
+  "gen-04": 0.63,
+  "gen-05": 0.675,
+  "gen-06": 0.743,
+  "gen-07": 0.775,
+  "old-01": 0.704,
+  "old-02": 0.684,
+  "old-03": 0.678,
+  "old-04": 0.889
+ },
+ "out_of_scope_scores": {
+  "out-01": 0.294,
+  "out-02": 0.582,
+  "out-03": 0.221,
+  "out-04": 0.3,
+  "out-05": 0.299,
+  "out-06": 0.584
+ },
+ "run": {
+  "timestamp": "2026-11-06T10:43:56+00:00",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3.6-flash",
+  "embedding_backend": "onnx",
+  "top_k": 6,
+  "similarity_threshold": 0.45
+ }
+}

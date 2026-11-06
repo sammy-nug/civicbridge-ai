@@ -1,0 +1,38 @@
+{
+ "document": {
+  "id": "inec-election-calendar",
+  "title": "Full Election Calendar & Timetable",
+  "organisation": "Independent National Electoral Commission (INEC)",
+  "url": "https://www.inecnigeria.org/elections/calendar",
+  "status": "current",
+  "publication_date": null,
+  "publication_date_basis": "Live page with no stated date; see retrieval date",
+  "description": "Official schedule of upcoming general, governorship and bye-elections.",
+  "category": "Election dates",
+  "extraction": "web_snapshot",
+  "superseded_by": null,
+  "retrieved_date": "2026-11-05",
+  "sha256": "93ecbba3c1fe48db2ff10f7047c1ab54696e3dd782140e0e57cd6d44e8f9a0e9",
+  "page_count": 1
+ },
+ "chunks": [
+  {
+   "chunk_id": "inec-election-calendar-0000",
+   "text": "Full Election Calendar & Timetable Full Election Calendar - Independent National Electoral Commission\nFilter:",
+   "page": null,
+   "section": "Full Election Calendar & Timetable"
+  },
+  {
+   "chunk_id": "inec-election-calendar-0001",
+   "text": "Election Calendar & Timetable Full Election Calendar - Independent National Electoral Commission\nFilter: All Bye-Election General Election Governorship\nS/N Election Title Category Scheduled Date Status Actions\n1 GOMBE (Gombe/Kwami/Funakaye Federal Constituencies) Bye-Election Federal Constituency, Gombe State\nBye-Election\nSeptember 19, 2026\nConcluded Actions\n2 BAUCHI (Disina and Sakwa State Constituencies) Bye-Election State Constituency, Bauchi State\nBye-Election\nSeptember 19, 2026\nConcluded Actions\n3 DELTA (Udu State Constituency) Bye-Election State Constituency, Delta State\nBye-Election\nSeptember 19, 2026\nConcluded Actions\n4 KANO (Dawakin Kudu State Constituency) Bye-Election State Constituency, Kano State\nBye-Election\nSeptember 19, 2026\nConcluded Actions\n5 Presidential / National Assembly Election Nationwide (36 States & FCT)\nGeneral Election\nJanuary 16, 2027\nUpcoming Actions\n6 Governorship / State House Of Assembly Election Participating States & State Constituencies\nGovernorship\nFebruary 6, 2027\nUpcoming Actions\nElection Day Directives & Polling Information\nAccreditation and voting proceed simultaneously from 8:30 AM to 2:30 PM on scheduled election days.",
+   "page": null,
+   "section": "Full Election Calendar & Timetable"
+  },
+  {
+   "chunk_id": "inec-election-calendar-0002",
+   "text": "Day Directives & Polling Information\nAccreditation and voting proceed simultaneously from 8:30 AM to 2:30 PM on scheduled election days. All voters must present their Permanent Voter Card (PVC) for verification via the Bimodal Voter Accreditation System (BVAS). Check Voter Status",
+   "page": null,
+   "section": "Full Election Calendar & Timetable"
+  }
+ ]
+}

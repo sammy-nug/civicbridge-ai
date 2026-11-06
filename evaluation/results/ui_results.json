@@ -1,0 +1,202 @@
+[
+ {
+  "name": "no sideways overflow mobile home",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "axe mobile home",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow mobile chat",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "message box visible without scrolling mobile",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "axe mobile chat",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow mobile verify",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "axe mobile verify",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow mobile resources",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "axe mobile resources",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow mobile about",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "axe mobile about",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow desktop home",
+  "passed": true,
+  "detail": "layout 1280px "
+ },
+ {
+  "name": "axe desktop home",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow desktop chat",
+  "passed": true,
+  "detail": "layout 1280px "
+ },
+ {
+  "name": "message box visible without scrolling desktop",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "axe desktop chat",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow desktop verify",
+  "passed": true,
+  "detail": "layout 1280px "
+ },
+ {
+  "name": "axe desktop verify",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow desktop resources",
+  "passed": true,
+  "detail": "layout 1280px "
+ },
+ {
+  "name": "axe desktop resources",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow desktop about",
+  "passed": true,
+  "detail": "layout 1280px "
+ },
+ {
+  "name": "axe desktop about",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "resources load and search filters",
+  "passed": true,
+  "detail": "17 -> 1"
+ },
+ {
+  "name": "real partisan question declined via Enter key",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "switching language keeps conversation and shows review warning",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "new conversation clears the page",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "citation card renders and links to the exact PDF page",
+  "passed": true,
+  "detail": "https://example.org/x.pdf#page=15"
+ },
+ {
+  "name": "[1] marker becomes a link to its source card",
+  "passed": true,
+  "detail": "#r-11111111-1"
+ },
+ {
+  "name": "no sideways overflow mobile chat with citation",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "axe mobile chat with citation",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "English version can be opened",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "negative feedback form submits",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "network failure shows friendly error",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "Try again retries, and missing AI setup is explained",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no sideways overflow mobile verify result",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "axe mobile verify result",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "verify result shows category, findings and limitations",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "keyboard: skip link first, then navigation in order",
+  "passed": true,
+  "detail": "CivicBridge AI > Ask > Check information > Resources > About > Data saver > Ask CivicBridge"
+ },
+ {
+  "name": "data saver persists after reload",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "no uncaught page errors",
+  "passed": true,
+  "detail": ""
+ }
+]
