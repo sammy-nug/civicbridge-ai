@@ -185,9 +185,64 @@
   "detail": ""
  },
  {
+  "name": "home page question reaches the chat exactly once",
+  "passed": true,
+  "detail": "count 1"
+ },
+ {
+  "name": "page change moves focus to main and updates the title",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "chat has no site footer",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "back and forward don't ask the question again",
+  "passed": true,
+  "detail": "answers 1"
+ },
+ {
+  "name": "phone chat shows at least 3 common questions without scrolling",
+  "passed": true,
+  "detail": "4 visible"
+ },
+ {
+  "name": "touch targets are at least 24px",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "Escape closes the menu and returns focus",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "AI outage shows official passages, clearly labelled",
+  "passed": true,
+  "detail": ""
+ },
+ {
+  "name": "a new answer opens at its first line, below the header",
+  "passed": true,
+  "detail": "top 80px"
+ },
+ {
+  "name": "no sideways overflow mobile chat passages",
+  "passed": true,
+  "detail": "layout 360px "
+ },
+ {
+  "name": "axe mobile chat passages",
+  "passed": true,
+  "detail": ""
+ },
+ {
   "name": "keyboard: skip link first, then navigation in order",
   "passed": true,
-  "detail": "CivicBridge AI > Ask > Check information > Resources > About > Data saver > Ask CivicBridge"
+  "detail": "CivicBridge AI > Ask > Check information > Resources > About > Data saver > "
  },
  {
   "name": "data saver persists after reload",

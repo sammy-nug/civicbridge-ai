@@ -4,21 +4,23 @@
 
 @layer base {
   html { -webkit-text-size-adjust: 100%; }
-  body { @apply bg-civic-bg text-navy antialiased; font-size: 1.0625rem; line-height: 1.6; }
-  :focus-visible { outline: 3px solid #2563EB; outline-offset: 2px; border-radius: 4px; }
+  body { @apply bg-paper text-ink antialiased; font-size: 1.0625rem; line-height: 1.6; }
+  h1, h2 { @apply font-serif; line-height: 1.2; }
+  :focus-visible { outline: 3px solid #1D4ED8; outline-offset: 2px; border-radius: 2px; }
   .on-dark :focus-visible { outline-color: #FFFFFF; }
+  /* Receives focus after a page change, so it needs no ring of its own. */
+  main:focus { outline: none; }
 }
 
 @layer components {
-  .btn { @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-lg px-5 py-2.5 font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-60; }
-  .btn-primary { @apply btn bg-civic-blue text-white hover:bg-blue-700; }
-  .btn-green { @apply btn bg-green-700 text-white hover:bg-green-800; }
-  .btn-outline { @apply btn border border-slate-400 bg-white text-navy hover:bg-slate-100; }
-  .btn-on-dark { @apply btn border border-white/70 text-white hover:bg-white/10; }
-  .card { @apply rounded-xl border border-slate-200 bg-white; }
-  .field { @apply w-full rounded-lg border border-slate-500 bg-white px-3 py-2.5 text-navy placeholder:text-slate-600; }
-  .page { @apply mx-auto w-full max-w-5xl px-4 py-8 sm:px-6 sm:py-12; }
-  .eyebrow { @apply text-sm font-semibold uppercase tracking-wide text-green-800; }
+  .btn { @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded px-5 py-2.5 font-semibold transition-colors disabled:cursor-not-allowed; }
+  .btn-primary { @apply btn bg-civic-green text-white hover:bg-civic-greenDark disabled:bg-slate-300 disabled:text-slate-700; }
+  .btn-outline { @apply btn border border-ink bg-white text-ink hover:bg-paper; }
+  .card { @apply rounded border border-rule bg-white; }
+  .field { @apply w-full rounded border border-slate-600 bg-white px-3 py-2.5 text-ink placeholder:text-slate-600; }
+  .page { @apply mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-12; }
+  .eyebrow { @apply text-sm font-semibold uppercase tracking-wide text-civic-green; }
+  .text-link { @apply font-medium text-blue-800 underline hover:text-blue-950; }
 }
 
 /* Low-bandwidth mode: no transitions or shadows, and source details load on demand. */

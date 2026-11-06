@@ -10,9 +10,9 @@ export default function LoadingIndicator({ label = "Searching official sources" 
   return (
     <div role="status" className="flex flex-wrap items-center gap-2 text-slate-700">
       <span aria-hidden="true" className="flex gap-1">
-        <span className="dot h-2 w-2 rounded-full bg-civic-blue" />
-        <span className="dot h-2 w-2 rounded-full bg-civic-blue" />
-        <span className="dot h-2 w-2 rounded-full bg-civic-blue" />
+        <span className="dot h-2 w-2 rounded-full bg-civic-green" />
+        <span className="dot h-2 w-2 rounded-full bg-civic-green" />
+        <span className="dot h-2 w-2 rounded-full bg-civic-green" />
       </span>
       <span>{label}…</span>
       {slow && <span className="text-sm">Still working. This can take a little longer on slow connections.</span>}
