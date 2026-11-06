@@ -61,7 +61,7 @@ export default function Resources() {
                       Published: {doc.publication_date || "date not stated"}
                       {doc.publication_date_basis ? ` (${doc.publication_date_basis.toLowerCase()})` : ""} · Retrieved: {doc.retrieved_date}
                     </p>
-                    <a href={doc.url} target="_blank" rel="noreferrer" className="mt-2 inline-flex min-h-[32px] items-center gap-1 text-sm font-medium text-blue-800 underline">
+                    <a href={doc.url} target="_blank" rel="noreferrer" className="mt-2 inline-flex min-h-[32px] items-center gap-1 text-sm text-link">
                       Official source <ExternalLink aria-hidden="true" size={14} /><span className="sr-only">(opens in a new tab)</span>
                     </a>
                   </li>

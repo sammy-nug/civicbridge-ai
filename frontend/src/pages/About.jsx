@@ -14,7 +14,7 @@ export default function About() {
     <div className="page max-w-3xl">
       <p className="eyebrow">About</p>
       <h1 className="mt-1 text-3xl font-bold">Making electoral information understandable</h1>
-      <p className="mt-3 rounded-lg border border-slate-300 bg-white p-3">
+      <p className="mt-3 rounded border-l-4 border-ink bg-white p-3">
         CivicBridge AI is an independent project built for the AI4Elections Hackathon. It is not run by, affiliated with or endorsed by INEC, any government body or any political party.
       </p>
 
@@ -39,7 +39,7 @@ export default function About() {
 
       <Section title="Data sources">
         <p>We use public documents and pages from INEC's official websites, including the Electoral Act 2026 and the 2026 Regulations and Guidelines. We keep each document's link and retrieval date, and label older documents.</p>
-        <p>Our library is a snapshot, so it may miss very recent announcements. <Link to="/resources" className="font-medium text-blue-800 underline">See all our documents.</Link></p>
+        <p>Our library is a snapshot, so it may miss very recent announcements. <Link to="/resources" className="text-link">See all our documents.</Link></p>
       </Section>
 
       <Section title="Responsible AI principles">

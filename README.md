@@ -25,7 +25,7 @@ A general chatbot could easily get all three wrong, and confidently. CivicBridge
 - **Resources:** a searchable list of each document used, with dates and status.
 - **Four languages:** English, Hausa, Yoruba and Igbo. The three Nigerian languages **have not yet passed human evaluation** and are labelled as such. A translation that fails automatic checks is replaced by the English answer with a notice.
 - **Safeguards in code:** neutrality rules, removal of identity details, citation and number validation, rate limiting.
-- **Accessible and light:** mobile first, keyboard navigable, about 72 KB of gzipped JS and CSS, with a data saver mode.
+- **Accessible and light:** mobile first, keyboard navigable, about 74 KB of gzipped JS and CSS, with a data saver mode.
 
 **Target users:** first-time and registered voters, young Nigerians, people with limited digital literacy, speakers of Nigerian languages, and civic education organisations and researchers.
 

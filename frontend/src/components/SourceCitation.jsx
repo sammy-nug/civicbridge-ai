@@ -25,9 +25,9 @@ export default function SourceCitation({ citation, anchorPrefix = "source", lite
   const passageId = `${anchorPrefix}-${citation.number}-passage`;
 
   return (
-    <li id={`${anchorPrefix}-${citation.number}`} className="card scroll-mt-24 p-3 text-sm">
+    <li id={`${anchorPrefix}-${citation.number}`} className="scroll-mt-24 py-3 text-sm target:bg-amber-50">
       <div className="flex items-start gap-2">
-        <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded bg-navy text-xs font-bold text-white">
+        <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded bg-ink text-xs font-bold text-white">
           {citation.number}
         </span>
         <div className="min-w-0 flex-1">
@@ -48,7 +48,7 @@ export default function SourceCitation({ citation, anchorPrefix = "source", lite
           ))}
           <button
             type="button"
-            className="mt-2 inline-flex min-h-[32px] items-center gap-1 font-medium text-blue-800 underline"
+            className="text-link mt-1 inline-flex min-h-[32px] items-center gap-1"
             aria-expanded={expanded}
             aria-controls={passageId}
             onClick={() => setExpanded(!expanded)}
@@ -63,7 +63,7 @@ export default function SourceCitation({ citation, anchorPrefix = "source", lite
             href={sourceLink(citation)}
             target="_blank"
             rel="noreferrer"
-            className="mt-2 inline-flex min-h-[32px] items-center gap-1 font-medium text-blue-800 underline"
+            className="text-link mt-1 inline-flex min-h-[32px] items-center gap-1"
           >
             Open official source <ExternalLink aria-hidden="true" size={14} />
             <span className="sr-only">(opens in a new tab)</span>

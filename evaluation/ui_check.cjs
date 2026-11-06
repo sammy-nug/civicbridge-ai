@@ -1,5 +1,5 @@
 /* Browser checks: mobile layout, accessibility (axe), keyboard use, and real/forced states.
- * Setup: npm i puppeteer-core axe-core  (in any folder; point NODE_PATH at its node_modules)
+ * Setup: npm i puppeteer-core@22 axe-core  (in any folder; point NODE_PATH at its node_modules)
  * Run:   NODE_PATH=... node evaluation/ui_check.cjs http://localhost:4173 <screenshot_dir>
  * Only the "citation rendering" and "verify rendering" checks use an intercepted API response,
  * since they test how the UI draws a result, not whether the result is true.
@@ -38,6 +38,7 @@ const VERIFY = {
   page.on("pageerror", (e) => consoleErrors.push(e.message));
 
   const audit = async (name) => {
+    await new Promise((resolve) => setTimeout(resolve, 300)); // Let colour transitions finish, or axe measures them midway.
     await page.evaluate(axeSource);
     const report = await page.evaluate(async () => {
       const r = await axe.run(document, { runOnly: ["wcag2a", "wcag2aa", "best-practice"] });
@@ -116,6 +117,12 @@ const VERIFY = {
     const url = request.url();
     if (url.endsWith("/api/chat") && mode === "citation") return request.respond({ status: 200, contentType: "application/json", body: JSON.stringify(CHAT) });
     if (url.endsWith("/api/chat") && mode === "down") return request.abort();
+    if (url.endsWith("/api/chat") && mode === "passages") {
+      return request.respond({ status: 200, contentType: "application/json", body: JSON.stringify({ ...CHAT,
+        answer: "Our AI service is unavailable right now, so this is not a written answer.", language: "en", answered_in: "en",
+        english_answer: null, evidence_status: "passages_only", notices: [],
+        citations: Array.from({ length: 6 }, (_, i) => ({ ...CITATION, number: i + 1, excerpt: "Render-test passage. ".repeat(12) })) }) });
+    }
     if (url.endsWith("/api/chat") && mode === "notconfigured") return request.respond({ status: 503, contentType: "application/json", body: JSON.stringify({ error: { code: "llm_not_configured", message: "The AI service has not been set up on this server, so we can't answer questions yet." } }) });
     if (url.endsWith("/api/verify")) return request.respond({ status: 200, contentType: "application/json", body: JSON.stringify(VERIFY) });
     if (url.endsWith("/api/feedback")) return request.respond({ status: 201, contentType: "application/json", body: '{"status":"recorded"}' });
@@ -160,6 +167,57 @@ const VERIFY = {
   await audit("mobile verify result");
   await page.screenshot({ path: `${OUT}/mobile-verify-result.png`, fullPage: true });
   record("verify result shows category, findings and limitations", await page.evaluate(() => document.body.innerText.includes("Limitations of this check")));
+
+  // Asking on the home page carries the question to the chat, once, and Back doesn't repeat it.
+  mode = "real";
+  await page.setViewport({ width: 360, height: 740, isMobile: true, hasTouch: true });
+  await page.goto(BASE + "/", { waitUntil: "networkidle0" });
+  await page.type("#home-question", "Who should I vote for?");
+  await page.keyboard.press("Enter");
+  await page.waitForFunction(() => document.body.innerText.includes("Outside what CivicBridge AI can do"), { timeout: 15000 });
+  const askedOnce = await page.evaluate(() => [...document.querySelectorAll('[role="log"] p')].filter((p) => p.innerText === "Who should I vote for?").length);
+  record("home page question reaches the chat exactly once", askedOnce === 1, `count ${askedOnce}`);
+  record("page change moves focus to main and updates the title",
+    await page.evaluate(() => document.activeElement.id === "main" && document.title.startsWith("Ask CivicBridge")));
+  record("chat has no site footer", (await page.$("footer")) === null);
+  await page.goBack({ waitUntil: "networkidle0" });
+  await page.goForward({ waitUntil: "networkidle0" });
+  const repeats = await page.evaluate(() => document.querySelectorAll('[role="log"] article').length);
+  record("back and forward don't ask the question again", repeats <= 1, `answers ${repeats}`);
+  await page.evaluate(() => localStorage.clear());
+
+  // First screen on a phone: controls must leave room for the questions.
+  await page.goto(BASE + "/chat", { waitUntil: "networkidle0" });
+  const visibleQuestions = await page.evaluate(() => {
+    const composer = document.querySelector("form").getBoundingClientRect().top;
+    return [...document.querySelectorAll("main ul button")].filter((b) => b.getBoundingClientRect().bottom <= composer).length;
+  });
+  record("phone chat shows at least 3 common questions without scrolling", visibleQuestions >= 3, `${visibleQuestions} visible`);
+  const smallTargets = await page.evaluate(() => [...document.querySelectorAll("a, button, select, textarea, input")]
+    .filter((el) => { const b = el.getBoundingClientRect(); return b.width > 0 && !el.classList.contains("sr-only") && !el.closest("p") && (b.height < 24 || b.width < 24); })
+    .map((el) => el.innerText || el.tagName));
+  record("touch targets are at least 24px", smallTargets.length === 0, smallTargets.join(", "));
+
+  // Mobile menu: Escape closes it and returns focus to the button.
+  await page.click('button[aria-controls="mobile-menu"]');
+  await page.waitForSelector("#mobile-menu");
+  await page.keyboard.press("Escape");
+  record("Escape closes the menu and returns focus", (await page.$("#mobile-menu")) === null
+    && await page.evaluate(() => document.activeElement.getAttribute("aria-controls") === "mobile-menu"));
+
+  // The AI-outage answer and scroll position, using a forced response.
+  mode = "passages";
+  await page.type("#chat-input", "render test");
+  await page.keyboard.press("Enter");
+  await page.waitForFunction(() => document.body.innerText.includes("Official passages only: no AI answer"));
+  record("AI outage shows official passages, clearly labelled", true);
+  await new Promise((resolve) => setTimeout(resolve, 200));
+  const answerTop = await page.evaluate(() => document.querySelector('[role="log"] article').getBoundingClientRect().top);
+  record("a new answer opens at its first line, below the header", answerTop >= 0 && answerTop < 200, `top ${Math.round(answerTop)}px`);
+  await overflow("mobile chat passages");
+  await audit("mobile chat passages");
+  await page.screenshot({ path: `${OUT}/mobile-chat-passages.png` });
+  mode = "real";
 
   // Keyboard: the first Tab reaches the skip link, then main navigation controls.
   await page.setViewport({ width: 1280, height: 800 });

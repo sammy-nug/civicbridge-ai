@@ -9,7 +9,7 @@ import { LANGUAGE_OPTIONS } from "../i18n.js";
 import { verifyClaim } from "../services/api.js";
 
 const RESULT = {
-  supported: { label: "Supported by available official sources", icon: CheckCircle2, className: "border-green-700 bg-green-50 text-green-950" },
+  supported: { label: "Supported by available official sources", icon: CheckCircle2, className: "border-civic-green bg-civic-tint text-green-950" },
   contradicted: { label: "Contradicted by available official sources", icon: XCircle, className: "border-red-700 bg-red-50 text-red-950" },
   insufficient_evidence: { label: "Insufficient evidence to determine", icon: HelpCircle, className: "border-slate-500 bg-slate-100 text-slate-900" },
 };
@@ -95,8 +95,8 @@ export default function Verify({ language, setLanguage, lite }) {
         )}
         {result && (
           <>
-            <div className={`rounded-xl border-l-4 p-4 ${outcome.className}`}>
-              <h2 className="flex items-center gap-2 text-lg font-bold">
+            <div className={`rounded border-l-4 p-4 ${outcome.className}`}>
+              <h2 className="flex items-center gap-2 font-sans text-lg font-bold">
                 <OutcomeIcon aria-hidden="true" size={22} className="shrink-0" /> {outcome.label}
               </h2>
               <p lang={result.answered_in} className="mt-2"><AnswerText text={result.explanation} anchorPrefix="claim-source" /></p>
@@ -109,8 +109,8 @@ export default function Verify({ language, setLanguage, lite }) {
             </div>
             {result.supporting_sources.length > 0 && (
               <section>
-                <h2 className="mb-2 font-semibold">Sources</h2>
-                <ul className="grid gap-2 sm:grid-cols-2">
+                <h2 className="mb-2 font-sans font-semibold">Sources</h2>
+                <ul className="card divide-y divide-rule px-4">
                   {result.supporting_sources.map((citation) => (
                     <SourceCitation key={citation.number} citation={citation} anchorPrefix="claim-source" lite={lite} />
                   ))}
